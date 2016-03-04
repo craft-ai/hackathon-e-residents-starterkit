@@ -1,0 +1,43 @@
+{
+  "name": "hackathon-starterkit",
+  "version": "0.0.1",
+  "description": "craft ai nodejs starter kit for the hackathon 'Code avec la Poste'",
+  "author": {
+    "name": "craft ai",
+    "email": "contact@craft.ai",
+    "url": "http://www.craft.ai/"
+  },
+  "homepage": "https://github.com/craft-ai/hackathon-starterkit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craft-ai/hackathon-starterkit"
+  },
+  "scripts": {
+    "build": "babel src --out-dir bin",
+    "prestart": "npm run build",
+    "start": "node bin/main.js",
+    "predev": "npm run build",
+    "dev": "cross-env NODE_ENV=development node bin/main.js"
+  },
+  "dependencies": {
+    "commander": "2.9.0",
+    "cross-env": "1.0.7",
+    "dotenv": "2.0.0",
+    "isomorphic-fetch": "2.2.0",
+    "jsdom": "3.1.2",
+    "lodash": "3.10.1",
+    "moment": "2.11.1",
+    "q": "1.4.1",
+    "togeojson": "0.13.0",
+    "urlencode": "1.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "6.1.18",
+    "babel-core": "6.2.1",
+    "babel-loader": "6.2.0",
+    "babel-preset-es2015": "6.1.18",
+    "babel-preset-react": "6.1.18",
+    "eslint": "1.9.0"
+  }
+}
