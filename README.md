@@ -17,7 +17,7 @@ you unzipped the sources.
 
 The application has 2 different commands:
 - `npm start -- create --input <path/to/location/file.[kml|gpx]>` creates a new agent and initialize it with a location file,
-- `npm start -- decide <agent> [YYMMDDTHHMM]` takes a decision for a given timestamp.
+- `npm start -- decide <agent> [YYYYMMDDTHHMM]` takes a decision for a given timestamp.
 
 ### Under the hood ###
 
