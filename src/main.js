@@ -8,6 +8,7 @@ import retrieveNearestPostOffices from './lib/postOffices';
 import ToJson from 'togeojson';
 import program from 'commander';
 import path from 'path';
+import { DOMParser } from 'xmldom';
 
 const AGENT_MODEL = {
   knowledge: {
@@ -39,13 +40,13 @@ function loadLocations(locFilePath) {
     })
   })
     .then(rawData => {
-      const data = jsdom.jsdom(rawData);
+      const dom = new DOMParser().parseFromString(rawData.toString('utf8'),'text/xml');
       const ext = path.extname(locFilePath)
       if (ext === '.kml') {
-        return _.first(ToJson.kml(data, { styles: true }).features);
+        return _.first(ToJson.kml(dom, { styles: true }).features);
       }
       else if (ext === '.gpx') {
-        return _.first(ToJson.gpx(data, { styles: true }).features);
+        return _.first(ToJson.gpx(dom, { styles: true }).features);
       }
       else {
         return Q.reject('invalid file');
