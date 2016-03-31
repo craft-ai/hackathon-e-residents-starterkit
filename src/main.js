@@ -11,9 +11,9 @@ import path from 'path';
 import { DOMParser } from 'xmldom';
 
 const AGENT_MODEL = {
-  knowledge: {
+  context: {
     dayOfTheWeek: {
-      type: 'discrete',
+      type: 'continuous',
       min: 1,
       max: 7
     },
@@ -23,9 +23,13 @@ const AGENT_MODEL = {
       max: 24
     },
     postOffice: {
-      type: 'enum_output'
+      type: 'enum'
     }
-  }
+  },
+  output: [
+    'postOffice'
+  ],
+  time_quantum: 20 * 60 * 1000
 };
 
 function loadLocations(locFilePath) {
@@ -61,11 +65,11 @@ function loadLocations(locFilePath) {
 }
 
 function uploadContextBatch(agent, locations) {
-  return _.reduce(locations, (previousPromise, val, key) => {
+  return _.reduce(locations, (previousPromise, location, key) => {
     return previousPromise
       .then((previousRes) => {
         return Promise.all([
-          retrieveNearestPostOffices(val)
+          retrieveNearestPostOffices(location)
           .then(r => {
             process.stdout.clearLine();
             process.stdout.cursorTo(0);
@@ -90,6 +94,7 @@ program
         return loadLocations(options.input)
           .then(locations => {
             console.log(`Locations successfully loaded from '${options.input}'.`);
+            console.log(options.input);
             return uploadContextBatch(agent, locations)
           });
       })
@@ -112,7 +117,7 @@ program
     return craft.getAgentDecision(agent, context, momentDatetime.unix())
       .then(res => {
         console.log(`Decision at ${momentDatetime.format('lll')} for agent '${agent}' is `, res)
-        console.log(`- Inspect the decision tree at https://labs-integration.craft.ai/inspector?owner=laposte&agentId=${agent}&token=${process.env.CRAFT_TOKEN}`);
+        console.log(`- Inspect the decision tree at https://labs-integration.craft.ai/inspector?owner=laposte&agent=${agent}&token=${process.env.CRAFT_TOKEN}`);
       })
       .catch(err => {
         console.log(`Error while taking decision at ${momentDatetime.format('lll')} for agent '${agent}'`, err)

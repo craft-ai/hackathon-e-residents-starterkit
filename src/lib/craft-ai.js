@@ -58,7 +58,7 @@ function createCraftAgent(model, id) {
 function updateCraftAgentContext(agent, diffs) {
   return craftRequest({
     method: 'POST',
-    path: 'agents/' + agent + '/knowledge',
+    path: 'agents/' + agent + '/context',
     body: JSON.stringify(diffs)
   })
   .catch(err => {
