@@ -18,7 +18,7 @@ function craftRequest(r) {
     body: {}
   });
 
-  let url = 'https://labs-integration.craft.ai/api';
+  let url = 'https://beta.craft.ai/api';
   let owner = 'laposte';
 
   return fetch(url  + '/' + owner + '/' + r.path, {

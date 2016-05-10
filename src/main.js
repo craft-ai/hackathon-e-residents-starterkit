@@ -156,7 +156,7 @@ program
     return craft.getAgentDecision(agent, context, momentDatetime.unix())
       .then(res => {
         console.log(`Decision at ${momentDatetime.format('lll')} for agent '${agent}' is `, res)
-        console.log(`- Inspect the decision tree at https://labs-integration.craft.ai/inspector?owner=laposte&agent=${agent}&token=${process.env.CRAFT_TOKEN}`);
+        console.log(`- Inspect the decision tree at https://beta.craft.ai/inspector?owner=laposte&agent=${agent}&token=${process.env.CRAFT_TOKEN}`);
       })
       .catch(err => {
         console.log(`Error while taking decision at ${momentDatetime.format('lll')} for agent '${agent}'`, err)
