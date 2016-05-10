@@ -13,14 +13,10 @@ import { DOMParser } from 'xmldom';
 const AGENT_MODEL = {
   context: {
     dayOfTheWeek: {
-      type: 'continuous',
-      min: 1,
-      max: 7
+      type: 'continuous'
     },
     timeOfDay:  {
-      type: 'continuous',
-      min: 0,
-      max: 24
+      type: 'continuous'
     },
     postOffice: {
       type: 'enum'
@@ -29,7 +25,7 @@ const AGENT_MODEL = {
   output: [
     'postOffice'
   ],
-  time_quantum: 20 * 60 * 1000
+  time_quantum: 20 * 60
 };
 
 function loadLocations(locFilePath) {
@@ -56,7 +52,7 @@ function loadLocations(locFilePath) {
         return Q.reject('invalid file');
       }
     })
-    .then(positions => _.chunk(_.reduce(positions.properties.coordTimes, (res, val, key) => {
+    .then(positions => _.chunk(_.reduce(_.sortBy(positions.properties.coordTimes, val => Moment(val).unix()), (res, val, key) => {
       let latitude = parseFloat(positions.geometry.coordinates[key][1].toFixed(3));
       let longitude = parseFloat(positions.geometry.coordinates[key][0].toFixed(3));
       res[_.size(res)] = {'timestamp': Moment(val).unix(), 'latitude': latitude, 'longitude': longitude};
