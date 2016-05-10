@@ -1,0 +1,5458 @@
+[
+  {
+    "timestamp": 1456818897,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 8.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456818901,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 8.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456818908,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 8.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456819197,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456819707,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456819977,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456820217,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456820472,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456820727,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456821237,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456821501,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456821747,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456822257,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456822266,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456822493,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 9.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823024,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823033,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823047,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823149,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823176,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823277,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823294,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823298,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823303,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823308,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823315,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823329,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823352,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823362,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.2,
+      "postOffice": "PARIS PALAIS ROYAL BP"
+    }
+  },
+  {
+    "timestamp": 1456823459,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823532,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456823744,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824099,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824303,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824384,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824425,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824558,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824565,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824574,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456824813,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825068,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825323,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825332,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825546,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825578,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456825827,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 10.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456826342,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456826592,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456826847,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456826856,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456827108,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456827363,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456827612,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828581,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828590,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828591,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828593,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828594,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828596,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828601,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828602,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456828604,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829465,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829477,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829482,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829705,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829709,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829711,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829811,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829822,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829831,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 11.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456829998,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830006,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830009,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830030,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830062,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830275,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830284,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830292,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830543,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830600,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830609,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830616,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830625,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830626,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830638,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830682,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830694,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830703,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830707,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830736,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830812,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830826,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456830916,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831065,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831158,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831226,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831253,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831268,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831271,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831311,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831333,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831342,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831593,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831709,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831751,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831924,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831933,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831942,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831943,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456831944,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832123,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832128,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832132,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832144,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832149,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832153,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832160,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832167,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832171,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832179,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832184,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832202,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832210,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832215,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832218,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832221,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832225,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832232,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832322,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832354,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832367,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832583,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832586,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832587,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456832597,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832599,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832600,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832605,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832610,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832616,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832623,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832628,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832633,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832639,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832646,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832666,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832672,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832682,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832695,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832727,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832736,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456832958,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456833207,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 12.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834167,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834208,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834225,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834233,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834488,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834535,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834743,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456834998,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835253,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835508,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835763,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835831,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835835,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835842,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835845,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456835850,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836018,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836109,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836116,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836273,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836282,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836290,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836304,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836387,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836528,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836537,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836743,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456836862,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837032,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837041,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 13.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837223,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837232,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837233,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837236,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837241,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837242,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837243,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837251,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837303,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837306,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837312,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837317,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837370,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837407,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837414,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837562,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837576,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837602,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837667,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837670,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456837751,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838064,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838289,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838544,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838799,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838812,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838818,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838825,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838829,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838830,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838848,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838882,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838900,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838921,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456838967,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839117,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839245,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839420,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839422,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839423,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839543,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839559,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839568,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839570,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839574,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839583,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839593,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839595,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456839805,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456840060,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456840315,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456840406,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456840570,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 14.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456841080,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456841089,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456841218,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456841335,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456841584,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456842354,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456842865,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456842874,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456843114,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456843369,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456843624,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456843879,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456844134,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 15.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456844395,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456844656,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456844899,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845154,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845163,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845285,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845406,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845415,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845664,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845905,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456845937,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456846180,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456846708,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456846945,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847200,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847455,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847704,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847713,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847841,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 16.9,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847887,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456847893,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848166,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848176,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848213,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848228,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848456,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848705,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456848960,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456849069,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456849215,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456849224,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456849307,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456849980,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456850235,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456850490,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.7,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851006,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 17.8,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851573,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851792,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851795,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851796,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851819,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851820,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851821,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851849,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456851867,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456852154,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.1,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456852347,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.2,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456852602,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.3,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456852863,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853118,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.4,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853385,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.5,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853587,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853615,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853616,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853622,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853624,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853649,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853655,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853668,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853673,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853680,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853694,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853702,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853711,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853718,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853726,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853741,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853748,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS HAUSSMANN BP"
+    }
+  },
+  {
+    "timestamp": 1456853753,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853760,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853767,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853773,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853779,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853788,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853794,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853798,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853806,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853830,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853853,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853876,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853932,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853939,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456853958,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.6,
+      "postOffice": "PARIS CAPUCINES BP"
+    }
+  },
+  {
+    "timestamp": 1456854708,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456854726,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456854732,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456854734,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456854745,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456854752,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456854790,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456854803,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854812,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854822,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854833,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854839,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854854,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854863,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854869,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456854871,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854874,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854876,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854882,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854885,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854887,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854899,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854913,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456854922,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855012,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 18.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855112,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855472,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855503,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855618,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855637,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456855644,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855649,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456855655,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.1,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855800,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855809,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855831,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855837,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855889,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855901,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855908,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855914,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855921,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456855933,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855940,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855946,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456855963,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.2,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857272,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857333,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857346,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857355,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857359,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857363,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857366,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857372,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857378,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857380,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857384,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857396,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857402,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857407,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857413,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857422,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857446,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456857480,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857485,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857490,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857495,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857496,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857500,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857507,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857513,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857517,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857544,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857550,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857551,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857554,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857557,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857563,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857571,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857576,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857577,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857651,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857659,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857665,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857671,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857732,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857738,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857740,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857763,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857765,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857788,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857794,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857802,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857810,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857812,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857813,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857823,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857824,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857829,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857832,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857835,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857841,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857843,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857871,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857878,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857884,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857890,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857897,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857904,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456857906,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456857931,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456857953,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456857958,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456857977,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 19.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456858862,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456858884,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456858962,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456859048,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.1,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456859112,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.1,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456859361,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.1,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456859424,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.2,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456859483,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.2,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456859669,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.2,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456859875,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.3,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456860048,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.3,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456860118,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.4,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456860228,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.4,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456860463,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.4,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456860480,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.5,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456860714,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.5,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456860739,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.5,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456860815,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456861181,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.6,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861266,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.7,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456861417,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.7,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861535,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456861581,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861639,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456861664,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861690,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861698,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456861723,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456862171,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.9,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456862180,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456862205,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 20.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456862548,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456862725,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.1,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456862742,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.1,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456862772,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.1,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456863141,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.2,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456863171,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.2,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456863380,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.3,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456863469,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.3,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456863510,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.3,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456863519,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.3,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456863802,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.4,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456863972,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.4,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456864264,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.5,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456864452,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456864606,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456864711,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.6,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865126,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456865202,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865206,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865207,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865208,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865211,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865215,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "PUTEAUX BOUVETS BP"
+    }
+  },
+  {
+    "timestamp": 1456865232,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865237,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865256,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865272,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865290,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865294,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865335,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865345,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865359,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865371,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865372,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865380,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865386,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865391,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865395,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865403,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865443,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865444,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865446,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.8,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865462,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865464,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865485,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865498,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865511,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865521,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865526,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865533,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865547,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE 4 TEMPS BP"
+    }
+  },
+  {
+    "timestamp": 1456865569,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865578,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865585,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865586,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865591,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865613,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865645,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865651,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865657,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865664,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865670,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865677,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865683,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865690,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865699,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865701,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865707,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865708,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865711,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865712,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865722,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865725,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865734,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865738,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865748,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865782,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COEUR DE DEFENSE BP"
+    }
+  },
+  {
+    "timestamp": 1456865788,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865810,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865818,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865821,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865826,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865831,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865837,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865841,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865843,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865845,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865850,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865858,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865860,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "LA DEFENSE CNIT"
+    }
+  },
+  {
+    "timestamp": 1456865865,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865870,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 21.9,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865882,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865888,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865889,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865894,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865896,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865898,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865903,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865911,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865913,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865918,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865923,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865928,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865933,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865943,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865948,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865953,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865958,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865963,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865968,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865973,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456865978,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866001,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866005,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866007,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866008,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866013,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866018,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866023,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COURBEVOIE FAUBOURG DE L' ARCHE BP"
+    }
+  },
+  {
+    "timestamp": 1456866028,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866033,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866038,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866043,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866048,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866053,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866058,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866059,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866064,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866069,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866074,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866079,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866084,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866108,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866110,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866111,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866116,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866121,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866126,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866131,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866136,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "LA GARENNE COLOMBES REPUBLIQUE"
+    }
+  },
+  {
+    "timestamp": 1456866141,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866146,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866151,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866156,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866161,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866166,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866182,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866190,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866198,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866207,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866216,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866225,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866234,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866242,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866249,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866257,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866264,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866271,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866278,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866285,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866293,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866300,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866307,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866314,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866323,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866331,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866338,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866346,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866354,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866366,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866374,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866382,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866388,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866395,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866404,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866411,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866417,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866423,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866429,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866437,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866445,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866453,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866460,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866468,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866477,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866535,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866537,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866543,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866554,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866556,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866572,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866596,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866597,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.1,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866620,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866623,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866630,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866640,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866644,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866648,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866661,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866719,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866728,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  },
+  {
+    "timestamp": 1456866729,
+    "diff": {
+      "dayOfTheWeek": 2,
+      "timeOfDay": 22.2,
+      "postOffice": "COLOMBES ARAGON BP"
+    }
+  }
+]

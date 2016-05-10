@@ -64,7 +64,14 @@ function loadLocations(locFilePath) {
     }, []), 40));
 }
 
-function uploadContextBatch(agent, locations) {
+let sentDiffs = [];
+
+function sendContextDiffs(agent, diffs) {
+  sentDiffs = sentDiffs.concat(diffs);
+  return craft.updateAgentContext(agent, diffs);
+}
+
+function uploadContextBatchFromLocations(agent, locations) {
   return _.reduce(locations, (previousPromise, location, key) => {
     return previousPromise
       .then((previousRes) => {
@@ -76,11 +83,26 @@ function uploadContextBatch(agent, locations) {
             process.stdout.write(`Uploading context to agent '${agent.id}': ${(key/locations.length*100).toFixed(2)}%`);
             return r;
           }),
-          previousRes ? craft.updateAgentContext(agent.id, previousRes[0]) : Q()
+          previousRes ? sendContextDiffs(agent.id, previousRes[0]) : Q()
         ]);
       })
     }, Q())
-  .then(res => craft.updateAgentContext(agent.id, res[0]));
+  .then(res => sendContextDiffs(agent.id, res[0]));
+}
+
+function uploadContextBatch(agent, batchFile) {
+  return new Promise((resolve, reject) => {
+    fs.readFile(batchFile, (err, data) => {
+      if (err) {
+        reject(err);
+      }
+      else {
+        resolve(data);
+      }
+    })
+  })
+    .then(rawData => JSON.parse(rawData))
+    .then(diffs => craft.updateAgentContext(agent.id, diffs));
 }
 
 program
@@ -88,15 +110,32 @@ program
   .description('create a craft ai agent')
   .option('-i, --input [path]', 'Load an initial geotrace')
   .action(function(options) {
+    const parsedInputPath = path.parse(options.input);
     craft.createAgent(AGENT_MODEL)
       .then(agent => {
         console.log(`Agent '${agent.id}' successfully created.`);
-        return loadLocations(options.input)
-          .then(locations => {
-            console.log(`Locations successfully loaded from '${options.input}'.`);
-            console.log(options.input);
-            return uploadContextBatch(agent, locations)
-          });
+        if (parsedInputPath.ext === '.json') {
+          return uploadContextBatch(agent, options.input);
+        }
+        else {
+          return loadLocations(options.input)
+            .then(locations => {
+              console.log(`Locations successfully loaded from '${options.input}'.`);
+              return uploadContextBatchFromLocations(agent, locations)
+            })
+            .then(() => {
+              const fileName = `${parsedInputPath.dir}/${parsedInputPath.name}.json`;
+              return new Promise((resolve, reject) => fs.writeFile(fileName, JSON.stringify(sentDiffs, null, 2), (err) => {
+                if (err) {
+                  reject(err);
+                }
+                else {
+                  console.log(`Sent diff saved to ${fileName}`);
+                  resolve();
+                }
+              }));
+            })
+        }
       })
       .catch(err => console.log('Error while creating a new agent', err));
   });
