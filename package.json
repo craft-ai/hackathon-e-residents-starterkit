@@ -1,0 +1,26 @@
+{
+  "name": "hackathon-starterkit",
+  "version": "0.0.1",
+  "description": "craft ai nodejs starter kit for the hackathon 'Hack The Office'",
+  "author": {
+    "name": "craft ai",
+    "email": "contact@craft.ai",
+    "url": "http://www.craft.ai/"
+  },
+  "homepage": "https://github.com/craft-ai/hackathon-starterkit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craft-ai/hackathon-starterkit"
+  },
+  "scripts": {
+    "start": "node bin/main.js"
+  },
+  "dependencies": {
+    "dotenv": "2.0.0",
+    "lodash": "3.10.1",
+    "moment": "2.11.1",
+    "node-fetch": "1.5.2",
+    "yargs": "4.7.1"
+  }
+}
