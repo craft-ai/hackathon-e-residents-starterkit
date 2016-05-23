@@ -1,6 +1,7 @@
 var _ = require('lodash');
 var fetch = require('node-fetch');
 var moment = require('Moment');
+var Promise = require('bluebird');
 var url = require('url');
 
 var RESCUETIME_API_KEY = process.env.RESCUETIME_API_KEY;
@@ -12,9 +13,9 @@ function retrieveActivityLog(from, to) {
     pathname: '/anapi/data',
     query: {
       key: RESCUETIME_API_KEY,
-      format: 'csv',
+      format: 'json',
       perspective: 'interval',
-      resolution_time: 'minute',
+      resolution_time: 'hour',
       restrict_begin: moment(from).format('YYYY-MM-DD'),
       restrict_end: moment(to).format('YYYY-MM-DD')
     }
@@ -25,12 +26,15 @@ function retrieveActivityLog(from, to) {
   return fetch(queryUrl)
     .then(function(response) {
       if (response.status >= 400) {
-        throw new Error('Error ' + response.status + ' while querying "' + queryUrl + '"');
+        return Promise.reject(new Error('Error ' + response.status + ' while querying "' + queryUrl + '"'));
       }
       else {
-        return response.text();
+        return response.json();
       }
     })
+    .then(function(json) {
+      return Promise.resolve(json);
+    });
 };
 
 module.exports = {
