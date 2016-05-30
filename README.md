@@ -15,11 +15,12 @@ realized as a support for the Hackathon [Hack The Office](http://hacktheoffice.b
 ### Using ###
 
 ```console
-> node ./src/main.js --help
-
+> nnode ./src/main.js --help       
 Commands:
   retrieve_data  Retrieve and format activity data from RescueTime
                  (`RESCUETIME_API_KEY` env variable needed)
+  learn          Create an agent and provide it with the given operations
+                 (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)
 
 Options:
   --help  Show help                                                    [boolean]
@@ -34,6 +35,16 @@ Options:
   --help  Show help                                                    [boolean]
   --from  Date lower bound (expects "YYYY-MM-DD")                     [required]
   --to    Date upper bound (expects "YYYY-MM-DD")        [default: "2016-05-21"]
+```
+
+```console
+> node ./src/main.js learn --help
+
+src/main.js learn
+
+Options:
+  --help        Show help                                              [boolean]
+  --operations  path to the json file containing the operations       [required]
 ```
 
 ### Resources ###
