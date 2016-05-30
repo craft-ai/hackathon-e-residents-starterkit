@@ -17,6 +17,14 @@ function diffsFromActivities(activities) {
         activity.date = prevActivity.date.clone().add(prevActivity.duration, 's');
       }
       else {
+        if (prevActivity) {
+          // After the last activity of the bunch, we do nothing !
+          ta = ta.concat({
+            date: prevActivity.date.clone().add(prevActivity.duration, 's'),
+            activity: 'None',
+            category: 'Nothing'
+          });
+        }
         activity.date = activity.originalDate;
       }
       return ta.concat(activity);
