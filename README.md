@@ -10,6 +10,7 @@ realized as a support for the Hackathon [Hack The Office](http://hacktheoffice.b
 - Install dependencies by running `npm install` in a terminal from the directory where the sources are.
 - in this directory, create a `.env` file setting the following variables:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc#header-authentication),
+    - `CRAFT_OWNER` define the **owner** of the craft ai agents that will be created _(at the moment you can use any string w/o spaces)_,
     - (optional) `RESCUETIME_API_KEY` allows you to retrieve your own data from [RescueTime](https://www.rescuetime.com).
 
 ### Using ###
