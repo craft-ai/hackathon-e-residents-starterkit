@@ -2,20 +2,21 @@ var _ = require('lodash');
 var craftai = require('craft-ai').createClient;
 var dotenv = require('dotenv');
 var fs = require('fs');
-var moment = require('Moment');
+var moment = require('moment-timezone');
 var Promise = require('bluebird');
 var yargs = require('yargs');
 
 dotenv.load();
 
 var rescueTime = require('./lib/rescueTime');
+var googleCalendar = require('./lib/googleCalendar');
 var utils = require('./lib/utils');
 
 // Data retrieval
 yargs
   .command(
     'retrieve_data',
-    'Retrieve and format activity data from RescueTime (`RESCUETIME_API_KEY` env variable needed)',
+    'Retrieve and format activity data from RescueTime (`RESCUETIME_API_KEY`, `GOOGLE_API_CLIENT_ID`, `GOOGLE_API_CLIENT_SECRET` & `GOOGLE_API_PROJECT_ID` env variables needed)',
     function(yargs) {
       return yargs
         .option('from', {
@@ -31,10 +32,33 @@ yargs
         });
     },
     function(argv) {
-      rescueTime.retrieveActivityLog(argv.from, argv.to)
-        .then(function(activities) {
+      const from = moment(argv.from);
+      const to = moment(argv.to);
+      console.log('Retrieving data from ' + from.format() + ' to ' + to.format() + '...');
+      Promise.all([
+        rescueTime.retrieveActivityLog(from, to),
+        googleCalendar.retrieveEvents(from, to)
+      ])
+        .then(function(activitiesAndEvents) {
           console.log('Generating the **craft ai** diff list...');
-          var diffList = utils.diffsFromActivities(activities);
+          var activities = activitiesAndEvents[0];
+          var activitiesDiffList = utils.diffsFromActivities(activities);
+
+          var events = activitiesAndEvents[1];
+          var eventsDiffList = utils.diffsFromEvents(events);
+
+          var diffList = utils.mergeDiffsLists([
+            [
+              {
+                "timestamp": from.unix(),
+                "diff": {
+                  "category": "Nothing",
+                  "status": "outOfMeeting",
+                  "tz": "+02:00"
+                }
+              }
+            ], activitiesDiffList, eventsDiffList ]);
+
           if (argv.out) {
             console.log('Saving **craft ai** diff list to "' + argv.out + '"...');
             return new Promise(function(resolve, reject) {
@@ -83,6 +107,9 @@ yargs
           },
           tz: {
             type: 'timezone'
+          },
+          status: {
+            type: 'enum'
           },
           category:  {
             type: 'enum'

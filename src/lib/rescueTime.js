@@ -1,6 +1,6 @@
 var _ = require('lodash');
 var fetch = require('node-fetch');
-var moment = require('Moment');
+var moment = require('moment-timezone');
 var Promise = require('bluebird');
 var url = require('url');
 
@@ -16,8 +16,8 @@ function retrieveActivityLog(from, to) {
       format: 'json',
       perspective: 'interval',
       resolution_time: 'minute',
-      restrict_begin: moment(from).format('YYYY-MM-DD'),
-      restrict_end: moment(to).format('YYYY-MM-DD')
+      restrict_begin: from.format('YYYY-MM-DD'),
+      restrict_end: to.format('YYYY-MM-DD')
     }
   })
 

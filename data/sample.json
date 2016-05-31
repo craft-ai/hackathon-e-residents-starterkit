@@ -1,9 +1,16 @@
 [
   {
+    "timestamp": 1463695200,
+    "diff": {
+      "category": "Nothing",
+      "status": "outOfMeeting",
+      "tz": "+02:00"
+    }
+  },
+  {
     "timestamp": 1463727300,
     "diff": {
-      "category": "Calendars",
-      "tz": "+00:00"
+      "category": "Calendars"
     }
   },
   {
@@ -91,18 +98,6 @@
     }
   },
   {
-    "timestamp": 1463728126,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463728149,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463728172,
     "diff": {
       "category": "Uncategorized"
@@ -159,23 +154,12 @@
   {
     "timestamp": 1463728500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463728500,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463728653,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463728754,
     "diff": {
       "category": "General Software Development"
     }
@@ -207,13 +191,8 @@
   {
     "timestamp": 1463728800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463728800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -229,37 +208,14 @@
     }
   },
   {
-    "timestamp": 1463729082,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463729092,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463729100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463729100,
-    "diff": {
-      "category": "Engineering & Technology"
+      "category": "Engineering & Technology",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463729169,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463729237,
     "diff": {
       "category": "General Software Development"
     }
@@ -291,13 +247,13 @@
   {
     "timestamp": 1463729393,
     "diff": {
-      "category": "General Software Development"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1463729396,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "General Software Development"
     }
   },
   {
@@ -326,12 +282,6 @@
   },
   {
     "timestamp": 1463729615,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1463729642,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -369,29 +319,12 @@
   {
     "timestamp": 1463729700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463729700,
-    "diff": {
-      "category": "Engineering & Technology"
+      "category": "Engineering & Technology",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463729808,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463729877,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463729928,
     "diff": {
       "category": "General Software Development"
     }
@@ -439,12 +372,6 @@
     }
   },
   {
-    "timestamp": 1463730102,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463730183,
     "diff": {
       "category": "Systems Operations"
@@ -453,13 +380,13 @@
   {
     "timestamp": 1463730235,
     "diff": {
-      "category": "Design & Planning"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1463730258,
     "diff": {
-      "category": "Search"
+      "category": "Design & Planning"
     }
   },
   {
@@ -483,25 +410,8 @@
   {
     "timestamp": 1463730300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463730300,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463730483,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463730517,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -537,13 +447,13 @@
   {
     "timestamp": 1463730596,
     "diff": {
-      "category": "Search"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1463730597,
     "diff": {
-      "category": "General Software Development"
+      "category": "Search"
     }
   },
   {
@@ -555,13 +465,7 @@
   {
     "timestamp": 1463730600,
     "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463730790,
-    "diff": {
-      "category": "General Software Development"
+      "status": "inMeeting"
     }
   },
   {
@@ -603,19 +507,8 @@
   {
     "timestamp": 1463730900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463730900,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463731091,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -639,17 +532,11 @@
   {
     "timestamp": 1463731200,
     "diff": {
-      "category": "General Software Development"
+      "status": "outOfMeeting"
     }
   },
   {
     "timestamp": 1463731304,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463731329,
     "diff": {
       "category": "Uncategorized"
     }
@@ -781,12 +668,6 @@
     }
   },
   {
-    "timestamp": 1463732958,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463732986,
     "diff": {
       "category": "Uncategorized"
@@ -835,12 +716,6 @@
     }
   },
   {
-    "timestamp": 1463733279,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463733298,
     "diff": {
       "category": "Instant Message"
@@ -849,49 +724,29 @@
   {
     "timestamp": 1463733300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463733300,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463733600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463733600,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463733900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463733900,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463734200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463734200,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
@@ -921,13 +776,8 @@
   {
     "timestamp": 1463734500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463734500,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -938,12 +788,6 @@
   },
   {
     "timestamp": 1463734787,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463734793,
     "diff": {
       "category": "Uncategorized"
     }
@@ -1035,13 +879,13 @@
   {
     "timestamp": 1463735385,
     "diff": {
-      "category": "Search"
+      "category": "Design & Planning"
     }
   },
   {
     "timestamp": 1463735391,
     "diff": {
-      "category": "Design & Planning"
+      "category": "Search"
     }
   },
   {
@@ -1059,13 +903,8 @@
   {
     "timestamp": 1463735400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463735400,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
@@ -1077,13 +916,8 @@
   {
     "timestamp": 1463735700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463735700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -1107,13 +941,8 @@
   {
     "timestamp": 1463736000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463736000,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
@@ -1125,37 +954,22 @@
   {
     "timestamp": 1463736300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463736300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463736600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463736600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463736900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463736900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -1167,13 +981,8 @@
   {
     "timestamp": 1463737200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463737200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -1185,13 +994,8 @@
   {
     "timestamp": 1463737500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463737500,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -1203,13 +1007,8 @@
   {
     "timestamp": 1463737800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463737800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -1233,13 +1032,13 @@
   {
     "timestamp": 1463738097,
     "diff": {
-      "category": "Search"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1463738098,
     "diff": {
-      "category": "Systems Operations"
+      "category": "Search"
     }
   },
   {
@@ -1256,12 +1055,6 @@
   },
   {
     "timestamp": 1463738317,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
-    "timestamp": 1463738365,
     "diff": {
       "category": "General Business"
     }
@@ -1407,13 +1200,13 @@
   {
     "timestamp": 1463740664,
     "diff": {
-      "category": "General Software Development"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1463740665,
     "diff": {
-      "category": "Systems Operations"
+      "category": "General Software Development"
     }
   },
   {
@@ -1563,41 +1356,30 @@
   {
     "timestamp": 1463741997,
     "diff": {
-      "category": "Writing"
+      "category": "Travel & Outdoors"
     }
   },
   {
     "timestamp": 1463741998,
     "diff": {
-      "category": "Travel & Outdoors"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1463741999,
     "diff": {
-      "category": "General Business"
+      "category": "Writing"
     }
   },
   {
     "timestamp": 1463742000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463742000,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463742266,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
-    "timestamp": 1463742295,
     "diff": {
       "category": "General Business"
     }
@@ -1665,23 +1447,17 @@
   {
     "timestamp": 1463742579,
     "diff": {
-      "category": "Travel & Outdoors"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1463742585,
     "diff": {
-      "category": "General Software Development"
+      "category": "Travel & Outdoors"
     }
   },
   {
     "timestamp": 1463742591,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463742595,
     "diff": {
       "category": "Uncategorized"
     }
@@ -1700,12 +1476,6 @@
   },
   {
     "timestamp": 1463742717,
-    "diff": {
-      "category": "Travel & Outdoors"
-    }
-  },
-  {
-    "timestamp": 1463742807,
     "diff": {
       "category": "Travel & Outdoors"
     }
@@ -1749,13 +1519,13 @@
   {
     "timestamp": 1463743134,
     "diff": {
-      "category": "Travel & Outdoors"
+      "category": "Instant Message"
     }
   },
   {
     "timestamp": 1463743163,
     "diff": {
-      "category": "Instant Message"
+      "category": "Travel & Outdoors"
     }
   },
   {
@@ -1833,13 +1603,8 @@
   {
     "timestamp": 1463743800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463743800,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -1875,19 +1640,19 @@
   {
     "timestamp": 1463744094,
     "diff": {
-      "category": "General Business"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1463744095,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Travel & Outdoors"
     }
   },
   {
     "timestamp": 1463744096,
     "diff": {
-      "category": "Travel & Outdoors"
+      "category": "General Business"
     }
   },
   {
@@ -1939,24 +1704,6 @@
     }
   },
   {
-    "timestamp": 1463744380,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463744385,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463744389,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1463744393,
     "diff": {
       "category": "Instant Message"
@@ -1983,13 +1730,8 @@
   {
     "timestamp": 1463744700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463744700,
-    "diff": {
-      "category": "Instant Message"
+      "category": "Instant Message",
+      "tz": "+02:00"
     }
   },
   {
@@ -2097,13 +1839,13 @@
   {
     "timestamp": 1463748332,
     "diff": {
-      "category": "General Utilities"
+      "category": "Internet Utilities"
     }
   },
   {
     "timestamp": 1463748339,
     "diff": {
-      "category": "Internet Utilities"
+      "category": "General Utilities"
     }
   },
   {
@@ -2151,13 +1893,8 @@
   {
     "timestamp": 1463748900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463748900,
-    "diff": {
-      "category": "Internet Utilities"
+      "category": "Internet Utilities",
+      "tz": "+02:00"
     }
   },
   {
@@ -2223,13 +1960,8 @@
   {
     "timestamp": 1463749500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463749500,
-    "diff": {
-      "category": "Instant Message"
+      "category": "Instant Message",
+      "tz": "+02:00"
     }
   },
   {
@@ -2341,12 +2073,6 @@
     }
   },
   {
-    "timestamp": 1463750324,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463750352,
     "diff": {
       "category": "Search"
@@ -2385,29 +2111,12 @@
   {
     "timestamp": 1463750400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463750400,
-    "diff": {
-      "category": "Search"
+      "category": "Search",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463750517,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463750604,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463750649,
     "diff": {
       "category": "General Software Development"
     }
@@ -2421,13 +2130,13 @@
   {
     "timestamp": 1463750689,
     "diff": {
-      "category": "Browsers"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1463750694,
     "diff": {
-      "category": "Systems Operations"
+      "category": "Browsers"
     }
   },
   {
@@ -2439,13 +2148,8 @@
   {
     "timestamp": 1463750700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463750700,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -2455,21 +2159,15 @@
     }
   },
   {
-    "timestamp": 1463750842,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463750863,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Utilities"
     }
   },
   {
     "timestamp": 1463750880,
     "diff": {
-      "category": "General Utilities"
+      "category": "Uncategorized"
     }
   },
   {
@@ -2480,12 +2178,6 @@
   },
   {
     "timestamp": 1463750903,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463750907,
     "diff": {
       "category": "General Software Development"
     }
@@ -2509,13 +2201,13 @@
     }
   },
   {
-    "timestamp": 1463754900,
+    "timestamp": 1463754600,
     "diff": {
-      "category": "General Utilities"
+      "status": "inMeeting"
     }
   },
   {
-    "timestamp": 1463754974,
+    "timestamp": 1463754900,
     "diff": {
       "category": "General Utilities"
     }
@@ -2631,13 +2323,8 @@
   {
     "timestamp": 1463755800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463755800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -2661,13 +2348,8 @@
   {
     "timestamp": 1463756100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463756100,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -2727,73 +2409,42 @@
   {
     "timestamp": 1463757000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463757000,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463757300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463757300,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463757600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463757600,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463757900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463757900,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463758200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463758200,
-    "diff": {
-      "category": "Presentation"
+      "status": "outOfMeeting"
     }
   },
   {
     "timestamp": 1463758500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463758500,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -2805,13 +2456,8 @@
   {
     "timestamp": 1463758800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463758800,
-    "diff": {
-      "category": "General Utilities"
+      "category": "General Utilities",
+      "tz": "+02:00"
     }
   },
   {
@@ -2846,12 +2492,6 @@
   },
   {
     "timestamp": 1463759094,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463759097,
     "diff": {
       "category": "General Software Development"
     }
@@ -3003,25 +2643,25 @@
   {
     "timestamp": 1463818610,
     "diff": {
-      "category": "Systems Operations"
+      "category": "Editing & IDEs"
     }
   },
   {
     "timestamp": 1463818654,
     "diff": {
-      "category": "Editing & IDEs"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1463818698,
     "diff": {
-      "category": "Editing & IDEs"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1463818739,
     "diff": {
-      "category": "General Software Development"
+      "category": "Editing & IDEs"
     }
   },
   {
@@ -3123,13 +2763,13 @@
   {
     "timestamp": 1463819378,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1463819384,
     "diff": {
-      "category": "Search"
+      "category": "Uncategorized"
     }
   },
   {
@@ -3217,12 +2857,6 @@
     }
   },
   {
-    "timestamp": 1463819977,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463819988,
     "diff": {
       "category": "Browsers"
@@ -3249,13 +2883,8 @@
   {
     "timestamp": 1463820000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463820000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3285,13 +2914,8 @@
   {
     "timestamp": 1463820300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463820300,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3363,13 +2987,8 @@
   {
     "timestamp": 1463820900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463820900,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -3411,13 +3030,8 @@
   {
     "timestamp": 1463821200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463821200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3447,13 +3061,8 @@
   {
     "timestamp": 1463821500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463821500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3465,13 +3074,13 @@
   {
     "timestamp": 1463821775,
     "diff": {
-      "category": "Browsers"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1463821783,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Browsers"
     }
   },
   {
@@ -3489,13 +3098,8 @@
   {
     "timestamp": 1463821800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463821800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3525,13 +3129,8 @@
   {
     "timestamp": 1463822100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463822100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3589,21 +3188,10 @@
     }
   },
   {
-    "timestamp": 1463822693,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463822700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463822700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3627,13 +3215,8 @@
   {
     "timestamp": 1463823000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463823000,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3651,13 +3234,8 @@
   {
     "timestamp": 1463823300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463823300,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3715,21 +3293,10 @@
     }
   },
   {
-    "timestamp": 1463823887,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463823900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463823900,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3741,13 +3308,8 @@
   {
     "timestamp": 1463824200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463824200,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3765,13 +3327,8 @@
   {
     "timestamp": 1463824500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463824500,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3782,12 +3339,6 @@
   },
   {
     "timestamp": 1463824711,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463824731,
     "diff": {
       "category": "General Software Development"
     }
@@ -3819,13 +3370,8 @@
   {
     "timestamp": 1463824800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463824800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3837,13 +3383,8 @@
   {
     "timestamp": 1463825100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463825100,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3861,13 +3402,8 @@
   {
     "timestamp": 1463825400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463825400,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -3879,13 +3415,8 @@
   {
     "timestamp": 1463825700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463825700,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -3903,13 +3434,8 @@
   {
     "timestamp": 1463826000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463826000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -3920,12 +3446,6 @@
   },
   {
     "timestamp": 1463826212,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463826263,
     "diff": {
       "category": "General Software Development"
     }
@@ -3991,18 +3511,6 @@
     }
   },
   {
-    "timestamp": 1463826579,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463826593,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463826599,
     "diff": {
       "category": "Nothing"
@@ -4052,18 +3560,6 @@
   },
   {
     "timestamp": 1463985321,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463985327,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463985333,
     "diff": {
       "category": "General Software Development"
     }
@@ -4141,31 +3637,14 @@
     }
   },
   {
-    "timestamp": 1463986199,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463986200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463986200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463986319,
-    "diff": {
-      "category": "Systems Operations"
-    }
-  },
-  {
-    "timestamp": 1463986395,
     "diff": {
       "category": "Systems Operations"
     }
@@ -4221,13 +3700,8 @@
   {
     "timestamp": 1463986800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463986800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -4245,13 +3719,8 @@
   {
     "timestamp": 1463987100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463987100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -4269,13 +3738,8 @@
   {
     "timestamp": 1463987400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463987400,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -4293,13 +3757,8 @@
   {
     "timestamp": 1463987700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463987700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -4333,21 +3792,10 @@
     }
   },
   {
-    "timestamp": 1463987999,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1463988000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463988000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -4396,6 +3844,12 @@
     "timestamp": 1463988467,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1463988600,
+    "diff": {
+      "status": "inMeeting"
     }
   },
   {
@@ -4449,13 +3903,7 @@
   {
     "timestamp": 1463989800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463989800,
-    "diff": {
-      "category": "Email"
+      "status": "inMeeting"
     }
   },
   {
@@ -4497,7 +3945,7 @@
   {
     "timestamp": 1463990400,
     "diff": {
-      "category": "Marketing"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -4539,13 +3987,13 @@
   {
     "timestamp": 1463990615,
     "diff": {
-      "category": "Browsers"
+      "category": "Professional Networking"
     }
   },
   {
     "timestamp": 1463990626,
     "diff": {
-      "category": "Professional Networking"
+      "category": "Browsers"
     }
   },
   {
@@ -4555,19 +4003,7 @@
     }
   },
   {
-    "timestamp": 1463990647,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463990655,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1463990659,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -4641,13 +4077,8 @@
   {
     "timestamp": 1463991300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463991300,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -4659,13 +4090,8 @@
   {
     "timestamp": 1463991600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463991600,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -4701,19 +4127,19 @@
   {
     "timestamp": 1463991894,
     "diff": {
-      "category": "General Business"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1463991895,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Intelligence"
     }
   },
   {
     "timestamp": 1463991896,
     "diff": {
-      "category": "Intelligence"
+      "category": "General Business"
     }
   },
   {
@@ -4747,39 +4173,27 @@
     }
   },
   {
-    "timestamp": 1463992196,
-    "diff": {
-      "category": "General Utilities"
-    }
-  },
-  {
     "timestamp": 1463992197,
-    "diff": {
-      "category": "Marketing"
-    }
-  },
-  {
-    "timestamp": 1463992198,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1463992199,
     "diff": {
       "category": "General Business"
     }
   },
   {
-    "timestamp": 1463992200,
+    "timestamp": 1463992198,
     "diff": {
-      "category": "Nothing"
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1463992199,
+    "diff": {
+      "category": "Marketing"
     }
   },
   {
     "timestamp": 1463992200,
     "diff": {
-      "category": "Calendars"
+      "status": "inMeeting"
     }
   },
   {
@@ -4827,13 +4241,13 @@
   {
     "timestamp": 1463992492,
     "diff": {
-      "category": "Marketing"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1463992494,
     "diff": {
-      "category": "Browsers"
+      "category": "Marketing"
     }
   },
   {
@@ -4911,13 +4325,8 @@
   {
     "timestamp": 1463993100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463993100,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -4940,12 +4349,6 @@
   },
   {
     "timestamp": 1463993390,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1463993395,
     "diff": {
       "category": "Uncategorized"
     }
@@ -4987,12 +4390,6 @@
     }
   },
   {
-    "timestamp": 1463993676,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1463993682,
     "diff": {
       "category": "Calendars"
@@ -5007,29 +4404,23 @@
   {
     "timestamp": 1463993691,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1463993693,
     "diff": {
-      "category": "Browsers"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1463993695,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1463993697,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
-    "timestamp": 1463993698,
     "diff": {
       "category": "General Business"
     }
@@ -5049,13 +4440,8 @@
   {
     "timestamp": 1463994000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463994000,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -5163,13 +4549,8 @@
   {
     "timestamp": 1463994900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463994900,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -5181,13 +4562,8 @@
   {
     "timestamp": 1463995200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463995200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -5203,15 +4579,9 @@
     }
   },
   {
-    "timestamp": 1463995495,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
     "timestamp": 1463995497,
     "diff": {
-      "category": "General Software Development"
+      "category": "Engineering & Technology"
     }
   },
   {
@@ -5247,25 +4617,19 @@
   {
     "timestamp": 1463995800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463995800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "status": "outOfMeeting"
     }
   },
   {
     "timestamp": 1463995939,
     "diff": {
-      "category": "General Software Development"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1463995994,
     "diff": {
-      "category": "Systems Operations"
+      "category": "General Software Development"
     }
   },
   {
@@ -5301,13 +4665,8 @@
   {
     "timestamp": 1463996100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463996100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -5373,37 +4732,22 @@
   {
     "timestamp": 1463996700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463996700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463997000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463997000,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1463997300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463997300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -5415,13 +4759,8 @@
   {
     "timestamp": 1463997600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463997600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -5449,12 +4788,6 @@
     }
   },
   {
-    "timestamp": 1463997892,
-    "diff": {
-      "category": "Instant Message"
-    }
-  },
-  {
     "timestamp": 1463997896,
     "diff": {
       "category": "Intelligence"
@@ -5469,13 +4802,8 @@
   {
     "timestamp": 1463997900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463997900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -5487,13 +4815,8 @@
   {
     "timestamp": 1463998200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1463998200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -5599,12 +4922,6 @@
     }
   },
   {
-    "timestamp": 1464003832,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
     "timestamp": 1464003853,
     "diff": {
       "category": "Systems Operations"
@@ -5673,19 +4990,19 @@
   {
     "timestamp": 1464004457,
     "diff": {
-      "category": "Browsers"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1464004459,
     "diff": {
-      "category": "Systems Operations"
+      "category": "General Social Networking"
     }
   },
   {
     "timestamp": 1464004461,
     "diff": {
-      "category": "General Social Networking"
+      "category": "Browsers"
     }
   },
   {
@@ -5709,13 +5026,8 @@
   {
     "timestamp": 1464004800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464004800,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -5823,13 +5135,8 @@
   {
     "timestamp": 1464005700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464005700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -5841,25 +5148,20 @@
   {
     "timestamp": 1464005992,
     "diff": {
-      "category": "Internet Utilities"
+      "category": "Intelligence"
     }
   },
   {
     "timestamp": 1464005996,
     "diff": {
-      "category": "Intelligence"
+      "category": "Internet Utilities"
     }
   },
   {
     "timestamp": 1464006000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464006000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -5871,13 +5173,8 @@
   {
     "timestamp": 1464006300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464006300,
-    "diff": {
-      "category": "General Business"
+      "category": "General Business",
+      "tz": "+02:00"
     }
   },
   {
@@ -5919,13 +5216,8 @@
   {
     "timestamp": 1464006600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464006600,
-    "diff": {
-      "category": "General Business"
+      "category": "General Business",
+      "tz": "+02:00"
     }
   },
   {
@@ -5985,13 +5277,8 @@
   {
     "timestamp": 1464007200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464007200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -6013,15 +5300,9 @@
     }
   },
   {
-    "timestamp": 1464007495,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464007497,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Uncategorized"
     }
   },
   {
@@ -6033,13 +5314,8 @@
   {
     "timestamp": 1464007500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464007500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -6050,12 +5326,6 @@
   },
   {
     "timestamp": 1464007751,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1464007793,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -6153,7 +5423,7 @@
   {
     "timestamp": 1464008400,
     "diff": {
-      "category": "Presentation"
+      "status": "inMeeting"
     }
   },
   {
@@ -6171,13 +5441,8 @@
   {
     "timestamp": 1464008700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464008700,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6207,13 +5472,8 @@
   {
     "timestamp": 1464009000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464009000,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6243,13 +5503,8 @@
   {
     "timestamp": 1464009300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464009300,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6315,13 +5570,8 @@
   {
     "timestamp": 1464009900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464009900,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6345,13 +5595,7 @@
   {
     "timestamp": 1464010200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464010200,
-    "diff": {
-      "category": "Presentation"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -6369,13 +5613,8 @@
   {
     "timestamp": 1464010500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464010500,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6387,13 +5626,8 @@
   {
     "timestamp": 1464010800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464010800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -6435,37 +5669,37 @@
   {
     "timestamp": 1464011073,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Marketing"
     }
   },
   {
     "timestamp": 1464011076,
     "diff": {
-      "category": "Calendars"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464011079,
     "diff": {
-      "category": "Marketing"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1464011082,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464011085,
     "diff": {
-      "category": "Calendars"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464011087,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Calendars"
     }
   },
   {
@@ -6475,15 +5709,9 @@
     }
   },
   {
-    "timestamp": 1464011091,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464011093,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Software Development"
     }
   },
   {
@@ -6555,13 +5783,8 @@
   {
     "timestamp": 1464011400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464011400,
-    "diff": {
-      "category": "Presentation"
+      "category": "Presentation",
+      "tz": "+02:00"
     }
   },
   {
@@ -6615,7 +5838,7 @@
   {
     "timestamp": 1464012000,
     "diff": {
-      "category": "Presentation"
+      "status": "inMeeting"
     }
   },
   {
@@ -6657,43 +5880,43 @@
   {
     "timestamp": 1464012589,
     "diff": {
-      "category": "Browsers"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1464012591,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1464012593,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Presentation"
     }
   },
   {
     "timestamp": 1464012594,
     "diff": {
-      "category": "General Software Development"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1464012595,
     "diff": {
-      "category": "Presentation"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464012596,
     "diff": {
-      "category": "Search"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1464012597,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Software Development"
     }
   },
   {
@@ -6771,25 +5994,15 @@
   {
     "timestamp": 1464014400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464014400,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464014700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464014700,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -6819,49 +6032,49 @@
   {
     "timestamp": 1464015085,
     "diff": {
-      "category": "Calendars"
+      "category": "Professional Networking"
     }
   },
   {
     "timestamp": 1464015089,
     "diff": {
-      "category": "General Software Development"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464015093,
     "diff": {
-      "category": "Professional Networking"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464015097,
     "diff": {
-      "category": "Browsers"
+      "category": "Design & Planning"
     }
   },
   {
     "timestamp": 1464015099,
     "diff": {
-      "category": "Design & Planning"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1464015101,
     "diff": {
-      "category": "General Software Development"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464015102,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1464015103,
     "diff": {
-      "category": "Browsers"
+      "category": "General Software Development"
     }
   },
   {
@@ -6885,13 +6098,8 @@
   {
     "timestamp": 1464015600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464015600,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -6987,13 +6195,8 @@
   {
     "timestamp": 1464017400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464017400,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -7011,13 +6214,8 @@
   {
     "timestamp": 1464017700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464017700,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -7027,15 +6225,15 @@
     }
   },
   {
-    "timestamp": 1464017773,
-    "diff": {
-      "category": "General Utilities"
-    }
-  },
-  {
     "timestamp": 1464017780,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464019200,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -7119,23 +6317,12 @@
   {
     "timestamp": 1464072600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464072600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464072770,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464072809,
     "diff": {
       "category": "General Software Development"
     }
@@ -7191,29 +6378,12 @@
   {
     "timestamp": 1464073200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464073200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464073311,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464073393,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464073420,
     "diff": {
       "category": "General Software Development"
     }
@@ -7315,12 +6485,6 @@
     }
   },
   {
-    "timestamp": 1464074098,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464074099,
     "diff": {
       "category": "Nothing"
@@ -7351,21 +6515,15 @@
     }
   },
   {
-    "timestamp": 1464074390,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464074394,
     "diff": {
-      "category": "General Communication & Scheduling"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464074396,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Communication & Scheduling"
     }
   },
   {
@@ -7459,12 +6617,6 @@
     }
   },
   {
-    "timestamp": 1464074964,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464074976,
     "diff": {
       "category": "Browsers"
@@ -7473,13 +6625,13 @@
   {
     "timestamp": 1464074988,
     "diff": {
-      "category": "Browsers"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1464074991,
     "diff": {
-      "category": "Search"
+      "category": "Browsers"
     }
   },
   {
@@ -7515,13 +6667,13 @@
   {
     "timestamp": 1464075150,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464075190,
     "diff": {
-      "category": "General Software Development"
+      "category": "Engineering & Technology"
     }
   },
   {
@@ -7567,12 +6719,6 @@
     }
   },
   {
-    "timestamp": 1464075453,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464075495,
     "diff": {
       "category": "Systems Operations"
@@ -7605,13 +6751,8 @@
   {
     "timestamp": 1464075600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464075600,
-    "diff": {
-      "category": "Quality Assurance"
+      "category": "Quality Assurance",
+      "tz": "+02:00"
     }
   },
   {
@@ -7629,13 +6770,13 @@
   {
     "timestamp": 1464075809,
     "diff": {
-      "category": "Editing & IDEs"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464075841,
     "diff": {
-      "category": "General Software Development"
+      "category": "Editing & IDEs"
     }
   },
   {
@@ -7652,12 +6793,6 @@
   },
   {
     "timestamp": 1464075897,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464075898,
     "diff": {
       "category": "General Software Development"
     }
@@ -7729,12 +6864,6 @@
     }
   },
   {
-    "timestamp": 1464076186,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464076190,
     "diff": {
       "category": "Uncategorized"
@@ -7749,19 +6878,14 @@
   {
     "timestamp": 1464076200,
     "diff": {
-      "category": "Quality Assurance"
+      "status": "inMeeting"
     }
   },
   {
     "timestamp": 1464076500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464076500,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -7786,6 +6910,12 @@
     "timestamp": 1464076760,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464076800,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -7814,12 +6944,6 @@
   },
   {
     "timestamp": 1464077507,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464077588,
     "diff": {
       "category": "Uncategorized"
     }
@@ -7857,13 +6981,8 @@
   {
     "timestamp": 1464077700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464077700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -7953,13 +7072,8 @@
   {
     "timestamp": 1464078300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464078300,
-    "diff": {
-      "category": "Quality Assurance"
+      "category": "Quality Assurance",
+      "tz": "+02:00"
     }
   },
   {
@@ -8001,13 +7115,8 @@
   {
     "timestamp": 1464078600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464078600,
-    "diff": {
-      "category": "Quality Assurance"
+      "category": "Quality Assurance",
+      "tz": "+02:00"
     }
   },
   {
@@ -8047,33 +7156,16 @@
     }
   },
   {
-    "timestamp": 1464078896,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464078898,
+    "timestamp": 1464078899,
     "diff": {
       "category": "Engineering & Technology"
     }
   },
   {
-    "timestamp": 1464078899,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464078900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464078900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8090,12 +7182,6 @@
   },
   {
     "timestamp": 1464079194,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464079198,
     "diff": {
       "category": "Uncategorized"
     }
@@ -8145,73 +7231,43 @@
   {
     "timestamp": 1464079500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464079500,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464079800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464079800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464080100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464080100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464080400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464080400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464080700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464080700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464081000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464081000,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8229,13 +7285,8 @@
   {
     "timestamp": 1464081300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464081300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8277,73 +7328,43 @@
   {
     "timestamp": 1464081900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464081900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464082200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464082200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464082500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464082500,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464082800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464082800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464083100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464083100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464083400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464083400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8355,13 +7376,8 @@
   {
     "timestamp": 1464083700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464083700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8397,19 +7413,20 @@
   {
     "timestamp": 1464084300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464084300,
-    "diff": {
-      "category": "General Utilities"
+      "category": "General Utilities",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464084349,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464091200,
+    "diff": {
+      "status": "inMeeting"
     }
   },
   {
@@ -8485,12 +7502,6 @@
     }
   },
   {
-    "timestamp": 1464092356,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464092392,
     "diff": {
       "category": "Systems Operations"
@@ -8503,45 +7514,17 @@
     }
   },
   {
-    "timestamp": 1464092398,
-    "diff": {
-      "category": "Browsers"
-    }
-  },
-  {
     "timestamp": 1464092400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464092400,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464092620,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464092700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464092700,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464092944,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -8571,7 +7554,7 @@
   {
     "timestamp": 1464094800,
     "diff": {
-      "category": "Systems Operations"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -8653,12 +7636,6 @@
     }
   },
   {
-    "timestamp": 1464095697,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464095699,
     "diff": {
       "category": "Systems Operations"
@@ -8667,13 +7644,8 @@
   {
     "timestamp": 1464095700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464095700,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -8799,37 +7771,22 @@
   {
     "timestamp": 1464096600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464096600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464096900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464096900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464097200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464097200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8913,13 +7870,8 @@
   {
     "timestamp": 1464097800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464097800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -8937,13 +7889,8 @@
   {
     "timestamp": 1464098100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464098100,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -8961,25 +7908,20 @@
   {
     "timestamp": 1464098398,
     "diff": {
-      "category": "General Software Development"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464098399,
     "diff": {
-      "category": "General Business"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464098400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464098400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -9015,13 +7957,8 @@
   {
     "timestamp": 1464098700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464098700,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -9051,13 +7988,13 @@
   {
     "timestamp": 1464098979,
     "diff": {
-      "category": "General News & Opinion"
+      "category": "Email"
     }
   },
   {
     "timestamp": 1464098987,
     "diff": {
-      "category": "Email"
+      "category": "General News & Opinion"
     }
   },
   {
@@ -9075,13 +8012,8 @@
   {
     "timestamp": 1464099000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464099000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -9147,37 +8079,32 @@
   {
     "timestamp": 1464099588,
     "diff": {
-      "category": "Marketing"
+      "category": "Writing"
     }
   },
   {
     "timestamp": 1464099593,
     "diff": {
-      "category": "Writing"
+      "category": "Marketing"
     }
   },
   {
     "timestamp": 1464099598,
     "diff": {
-      "category": "General Business"
+      "category": "General News & Opinion"
     }
   },
   {
     "timestamp": 1464099599,
     "diff": {
-      "category": "General News & Opinion"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464099600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464099600,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -9189,13 +8116,13 @@
   {
     "timestamp": 1464099896,
     "diff": {
-      "category": "Browsers"
+      "category": "Marketing"
     }
   },
   {
     "timestamp": 1464099897,
     "diff": {
-      "category": "Marketing"
+      "category": "Browsers"
     }
   },
   {
@@ -9307,6 +8234,12 @@
     }
   },
   {
+    "timestamp": 1464102000,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
     "timestamp": 1464102300,
     "diff": {
       "category": "Systems Operations"
@@ -9379,21 +8312,33 @@
     }
   },
   {
-    "timestamp": 1464102879,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464102881,
     "diff": {
-      "category": "Browsers"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464102883,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464111000,
+    "diff": {
+      "status": "outOfMeeting"
+    }
+  },
+  {
+    "timestamp": 1464156000,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
+    "timestamp": 1464163200,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -9404,12 +8349,6 @@
   },
   {
     "timestamp": 1464170438,
-    "diff": {
-      "category": "General Utilities"
-    }
-  },
-  {
-    "timestamp": 1464170474,
     "diff": {
       "category": "General Utilities"
     }
@@ -9434,12 +8373,6 @@
   },
   {
     "timestamp": 1464170560,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
-    "timestamp": 1464170571,
     "diff": {
       "category": "General Business"
     }
@@ -9471,55 +8404,49 @@
   {
     "timestamp": 1464170597,
     "diff": {
-      "category": "Calendars"
+      "category": "Presentation"
     }
   },
   {
     "timestamp": 1464170599,
     "diff": {
-      "category": "General Shopping"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464170601,
     "diff": {
-      "category": "Presentation"
+      "category": "General Shopping"
     }
   },
   {
     "timestamp": 1464170603,
     "diff": {
-      "category": "Email"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464170604,
     "diff": {
-      "category": "General Utilities"
-    }
-  },
-  {
-    "timestamp": 1464170605,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Instant Message"
     }
   },
   {
     "timestamp": 1464170606,
     "diff": {
-      "category": "Instant Message"
+      "category": "Voice Chat"
     }
   },
   {
     "timestamp": 1464170607,
     "diff": {
-      "category": "Instant Message"
+      "category": "Email"
     }
   },
   {
     "timestamp": 1464170608,
     "diff": {
-      "category": "Voice Chat"
+      "category": "General Utilities"
     }
   },
   {
@@ -9607,57 +8534,24 @@
     }
   },
   {
-    "timestamp": 1464174773,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464174900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464174900,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464175155,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464175200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464175200,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464175366,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464175500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464175500,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -9669,19 +8563,7 @@
   {
     "timestamp": 1464175800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464175800,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464175949,
-    "diff": {
-      "category": "Uncategorized"
+      "status": "inMeeting"
     }
   },
   {
@@ -9692,12 +8574,6 @@
   },
   {
     "timestamp": 1464176055,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464176072,
     "diff": {
       "category": "Uncategorized"
     }
@@ -9721,6 +8597,12 @@
     }
   },
   {
+    "timestamp": 1464177600,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
     "timestamp": 1464180300,
     "diff": {
       "category": "General Software Development"
@@ -9739,21 +8621,10 @@
     }
   },
   {
-    "timestamp": 1464180765,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464180900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464180900,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -9765,13 +8636,7 @@
   {
     "timestamp": 1464181200,
     "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464181301,
-    "diff": {
-      "category": "General Software Development"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -9789,13 +8654,8 @@
   {
     "timestamp": 1464181800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464181800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -9847,12 +8707,6 @@
     }
   },
   {
-    "timestamp": 1464184660,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464184690,
     "diff": {
       "category": "Uncategorized"
@@ -9866,12 +8720,6 @@
   },
   {
     "timestamp": 1464184800,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464184892,
     "diff": {
       "category": "General Software Development"
     }
@@ -9891,7 +8739,7 @@
   {
     "timestamp": 1464186600,
     "diff": {
-      "category": "Uncategorized"
+      "status": "inMeeting"
     }
   },
   {
@@ -9927,13 +8775,8 @@
   {
     "timestamp": 1464187200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464187200,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -10057,18 +8900,6 @@
     }
   },
   {
-    "timestamp": 1464189626,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464189641,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464189644,
     "diff": {
       "category": "Music"
@@ -10106,12 +8937,6 @@
   },
   {
     "timestamp": 1464190500,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464190664,
     "diff": {
       "category": "General Software Development"
     }
@@ -10155,13 +8980,8 @@
   {
     "timestamp": 1464191700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464191700,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -10179,13 +8999,8 @@
   {
     "timestamp": 1464192000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464192000,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -10203,13 +9018,8 @@
   {
     "timestamp": 1464192300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464192300,
-    "diff": {
-      "category": "Intelligence"
+      "category": "Intelligence",
+      "tz": "+02:00"
     }
   },
   {
@@ -10273,6 +9083,12 @@
     }
   },
   {
+    "timestamp": 1464193800,
+    "diff": {
+      "status": "outOfMeeting"
+    }
+  },
+  {
     "timestamp": 1464245400,
     "diff": {
       "category": "General Utilities"
@@ -10317,13 +9133,13 @@
   {
     "timestamp": 1464245974,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464245980,
     "diff": {
-      "category": "Calendars"
+      "category": "Uncategorized"
     }
   },
   {
@@ -10334,12 +9150,6 @@
   },
   {
     "timestamp": 1464245991,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464245994,
     "diff": {
       "category": "Uncategorized"
     }
@@ -10359,7 +9169,7 @@
   {
     "timestamp": 1464246000,
     "diff": {
-      "category": "Calendars"
+      "status": "inMeeting"
     }
   },
   {
@@ -10479,35 +9289,24 @@
   {
     "timestamp": 1464246896,
     "diff": {
-      "category": "Professional Networking"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464246898,
     "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464246900,
-    "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464246900,
-    "diff": {
       "category": "Professional Networking"
     }
   },
   {
-    "timestamp": 1464246987,
+    "timestamp": 1464246900,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Professional Networking",
+      "tz": "+02:00"
     }
   },
   {
-    "timestamp": 1464247032,
+    "timestamp": 1464246987,
     "diff": {
       "category": "Uncategorized"
     }
@@ -10537,12 +9336,6 @@
     }
   },
   {
-    "timestamp": 1464248906,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464248949,
     "diff": {
       "category": "General Utilities"
@@ -10563,13 +9356,19 @@
   {
     "timestamp": 1464249000,
     "diff": {
-      "category": "General Software Development"
+      "status": "inMeeting"
     }
   },
   {
     "timestamp": 1464249006,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464249600,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -10617,19 +9416,8 @@
   {
     "timestamp": 1464250500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464250500,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464250688,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -10640,12 +9428,6 @@
   },
   {
     "timestamp": 1464250765,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464250769,
     "diff": {
       "category": "Uncategorized"
     }
@@ -10694,12 +9476,6 @@
   },
   {
     "timestamp": 1464252807,
-    "diff": {
-      "category": "General Social Networking"
-    }
-  },
-  {
-    "timestamp": 1464252847,
     "diff": {
       "category": "General Social Networking"
     }
@@ -10777,12 +9553,6 @@
     }
   },
   {
-    "timestamp": 1464253194,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464253197,
     "diff": {
       "category": "Uncategorized"
@@ -10797,13 +9567,8 @@
   {
     "timestamp": 1464253200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464253200,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -10857,19 +9622,8 @@
   {
     "timestamp": 1464253800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464253800,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464253919,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -10939,12 +9693,6 @@
     }
   },
   {
-    "timestamp": 1464254798,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464254854,
     "diff": {
       "category": "Nothing"
@@ -10952,12 +9700,6 @@
   },
   {
     "timestamp": 1464255300,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464255388,
     "diff": {
       "category": "General Software Development"
     }
@@ -10999,12 +9741,6 @@
     }
   },
   {
-    "timestamp": 1464256030,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464256033,
     "diff": {
       "category": "General Software Development"
@@ -11031,13 +9767,13 @@
   {
     "timestamp": 1464257115,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1464257121,
     "diff": {
-      "category": "Search"
+      "category": "Uncategorized"
     }
   },
   {
@@ -11053,31 +9789,14 @@
     }
   },
   {
-    "timestamp": 1464257586,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464257700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464257700,
-    "diff": {
-      "category": "General Social Networking"
+      "category": "General Social Networking",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464257767,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464257795,
     "diff": {
       "category": "Uncategorized"
     }
@@ -11101,18 +9820,6 @@
     }
   },
   {
-    "timestamp": 1464258109,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464258117,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464258124,
     "diff": {
       "category": "Browsers"
@@ -11127,13 +9834,13 @@
   {
     "timestamp": 1464258133,
     "diff": {
-      "category": "Instant Message"
+      "category": "General Social Networking"
     }
   },
   {
     "timestamp": 1464258135,
     "diff": {
-      "category": "General Social Networking"
+      "category": "Instant Message"
     }
   },
   {
@@ -11149,19 +9856,7 @@
     }
   },
   {
-    "timestamp": 1464258772,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464258857,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464258859,
     "diff": {
       "category": "Uncategorized"
     }
@@ -11179,27 +9874,10 @@
     }
   },
   {
-    "timestamp": 1464259091,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464259200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464259200,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464259415,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -11223,13 +9901,8 @@
   {
     "timestamp": 1464259500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464259500,
-    "diff": {
-      "category": "Professional Networking"
+      "category": "Professional Networking",
+      "tz": "+02:00"
     }
   },
   {
@@ -11289,13 +9962,13 @@
   {
     "timestamp": 1464260356,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1464260361,
     "diff": {
-      "category": "Search"
+      "category": "Uncategorized"
     }
   },
   {
@@ -11337,13 +10010,8 @@
   {
     "timestamp": 1464260700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464260700,
-    "diff": {
-      "category": "General Social Networking"
+      "category": "General Social Networking",
+      "tz": "+02:00"
     }
   },
   {
@@ -11353,15 +10021,9 @@
     }
   },
   {
-    "timestamp": 1464260906,
-    "diff": {
-      "category": "General Social Networking"
-    }
-  },
-  {
     "timestamp": 1464260907,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Social Networking"
     }
   },
   {
@@ -11421,13 +10083,8 @@
   {
     "timestamp": 1464261600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464261600,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -11439,37 +10096,14 @@
   {
     "timestamp": 1464261900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464261900,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464262061,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464262200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464262200,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464262373,
-    "diff": {
-      "category": "General Software Development"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -11517,13 +10151,13 @@
   {
     "timestamp": 1464265770,
     "diff": {
-      "category": "Writing"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464265774,
     "diff": {
-      "category": "General Software Development"
+      "category": "Writing"
     }
   },
   {
@@ -11601,13 +10235,8 @@
   {
     "timestamp": 1464266400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464266400,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -11631,13 +10260,8 @@
   {
     "timestamp": 1464266700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464266700,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -11691,13 +10315,8 @@
   {
     "timestamp": 1464267300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464267300,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -11727,85 +10346,50 @@
   {
     "timestamp": 1464267600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464267600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464267900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464267900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464268200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464268200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464268500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464268500,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464268800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464268800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464269100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464269100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464269400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464269400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -11841,49 +10425,29 @@
   {
     "timestamp": 1464270000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464270000,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464270300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464270300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464270600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464270600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464270900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464270900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -11919,49 +10483,29 @@
   {
     "timestamp": 1464273000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464273000,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464273300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464273300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464273600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464273600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464273900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464273900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -11997,49 +10541,29 @@
   {
     "timestamp": 1464275100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464275100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464275400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464275400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464275700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464275700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464276000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464276000,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -12057,25 +10581,15 @@
   {
     "timestamp": 1464276300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464276300,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464276600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464276600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -12087,13 +10601,8 @@
   {
     "timestamp": 1464276900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464276900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -12105,25 +10614,20 @@
   {
     "timestamp": 1464277196,
     "diff": {
-      "category": "Photos"
+      "category": "General Utilities"
     }
   },
   {
     "timestamp": 1464277198,
     "diff": {
-      "category": "General Utilities"
+      "category": "Photos"
     }
   },
   {
     "timestamp": 1464277200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464277200,
-    "diff": {
-      "category": "Instant Message"
+      "category": "Instant Message",
+      "tz": "+02:00"
     }
   },
   {
@@ -12136,6 +10640,18 @@
     "timestamp": 1464277286,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464278400,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
+    "timestamp": 1464282000,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -12177,13 +10693,8 @@
   {
     "timestamp": 1464293400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464293400,
-    "diff": {
-      "category": "Photos"
+      "category": "Photos",
+      "tz": "+02:00"
     }
   },
   {
@@ -12207,13 +10718,8 @@
   {
     "timestamp": 1464293700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464293700,
-    "diff": {
-      "category": "General Utilities"
+      "category": "General Utilities",
+      "tz": "+02:00"
     }
   },
   {
@@ -12315,13 +10821,13 @@
   {
     "timestamp": 1464294595,
     "diff": {
-      "category": "Search"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464294597,
     "diff": {
-      "category": "Calendars"
+      "category": "Search"
     }
   },
   {
@@ -12333,13 +10839,8 @@
   {
     "timestamp": 1464294600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464294600,
-    "diff": {
-      "category": "Instant Message"
+      "category": "Instant Message",
+      "tz": "+02:00"
     }
   },
   {
@@ -12363,13 +10864,13 @@
   {
     "timestamp": 1464326183,
     "diff": {
-      "category": "General Utilities"
+      "category": "Photos"
     }
   },
   {
     "timestamp": 1464326190,
     "diff": {
-      "category": "Photos"
+      "category": "General Utilities"
     }
   },
   {
@@ -12465,13 +10966,8 @@
   {
     "timestamp": 1464331800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464331800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -12483,13 +10979,8 @@
   {
     "timestamp": 1464332100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464332100,
-    "diff": {
-      "category": "Calendars"
+      "category": "Calendars",
+      "tz": "+02:00"
     }
   },
   {
@@ -12513,25 +11004,15 @@
   {
     "timestamp": 1464332400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464332400,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464332700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464332700,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -12543,13 +11024,13 @@
   {
     "timestamp": 1464332974,
     "diff": {
-      "category": "Instant Message"
+      "category": "Science & Technology"
     }
   },
   {
     "timestamp": 1464332984,
     "diff": {
-      "category": "Science & Technology"
+      "category": "Instant Message"
     }
   },
   {
@@ -12591,13 +11072,8 @@
   {
     "timestamp": 1464333300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464333300,
-    "diff": {
-      "category": "Design & Planning"
+      "category": "Design & Planning",
+      "tz": "+02:00"
     }
   },
   {
@@ -12620,12 +11096,6 @@
   },
   {
     "timestamp": 1464333547,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464333559,
     "diff": {
       "category": "General Software Development"
     }
@@ -12687,13 +11157,13 @@
   {
     "timestamp": 1464333893,
     "diff": {
-      "category": "Science & Technology"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464333895,
     "diff": {
-      "category": "General Business"
+      "category": "Science & Technology"
     }
   },
   {
@@ -12710,12 +11180,6 @@
   },
   {
     "timestamp": 1464333900,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464334132,
     "diff": {
       "category": "General Software Development"
     }
@@ -12740,12 +11204,6 @@
   },
   {
     "timestamp": 1464334402,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464334487,
     "diff": {
       "category": "General Software Development"
     }
@@ -12777,13 +11235,8 @@
   {
     "timestamp": 1464334800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464334800,
-    "diff": {
-      "category": "Design & Planning"
+      "category": "Design & Planning",
+      "tz": "+02:00"
     }
   },
   {
@@ -12794,12 +11247,6 @@
   },
   {
     "timestamp": 1464335002,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464335051,
     "diff": {
       "category": "General Software Development"
     }
@@ -12855,7 +11302,7 @@
   {
     "timestamp": 1464335400,
     "diff": {
-      "category": "Design & Planning"
+      "status": "inMeeting"
     }
   },
   {
@@ -12933,13 +11380,13 @@
   {
     "timestamp": 1464335976,
     "diff": {
-      "category": "Browsers"
+      "category": "Internet Utilities"
     }
   },
   {
     "timestamp": 1464335986,
     "diff": {
-      "category": "Internet Utilities"
+      "category": "Browsers"
     }
   },
   {
@@ -12957,7 +11404,7 @@
   {
     "timestamp": 1464336000,
     "diff": {
-      "category": "Calendars"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -12969,13 +11416,8 @@
   {
     "timestamp": 1464336300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464336300,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -13005,19 +11447,14 @@
   {
     "timestamp": 1464336600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464336600,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464336687,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Systems Operations"
     }
   },
   {
@@ -13035,19 +11472,19 @@
   {
     "timestamp": 1464336856,
     "diff": {
-      "category": "Search"
+      "category": "Email"
     }
   },
   {
     "timestamp": 1464336866,
     "diff": {
-      "category": "Email"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464336876,
     "diff": {
-      "category": "General Software Development"
+      "category": "Search"
     }
   },
   {
@@ -13111,45 +11548,33 @@
     }
   },
   {
-    "timestamp": 1464337147,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
     "timestamp": 1464337150,
     "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464337153,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464337155,
     "diff": {
-      "category": "General Business"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464337157,
     "diff": {
-      "category": "Writing"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464337158,
     "diff": {
-      "category": "General Software Development"
+      "category": "Travel & Outdoors"
     }
   },
   {
     "timestamp": 1464337159,
     "diff": {
-      "category": "Travel & Outdoors"
+      "category": "Writing"
     }
   },
   {
@@ -13178,12 +11603,6 @@
   },
   {
     "timestamp": 1464337460,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464337476,
     "diff": {
       "category": "Uncategorized"
     }
@@ -13221,13 +11640,8 @@
   {
     "timestamp": 1464337800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464337800,
-    "diff": {
-      "category": "General News & Opinion"
+      "category": "General News & Opinion",
+      "tz": "+02:00"
     }
   },
   {
@@ -13250,12 +11664,6 @@
   },
   {
     "timestamp": 1464338084,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464338090,
     "diff": {
       "category": "Uncategorized"
     }
@@ -13291,33 +11699,21 @@
     }
   },
   {
-    "timestamp": 1464338387,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464338390,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464338393,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464338395,
     "diff": {
-      "category": "General Business"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464338397,
     "diff": {
-      "category": "Calendars"
+      "category": "General Business"
     }
   },
   {
@@ -13359,13 +11755,13 @@
   {
     "timestamp": 1464338693,
     "diff": {
-      "category": "Browsers"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464338695,
     "diff": {
-      "category": "General Business"
+      "category": "Browsers"
     }
   },
   {
@@ -13376,12 +11772,6 @@
   },
   {
     "timestamp": 1464338700,
-    "diff": {
-      "category": "Email"
-    }
-  },
-  {
-    "timestamp": 1464338835,
     "diff": {
       "category": "Email"
     }
@@ -13449,13 +11839,8 @@
   {
     "timestamp": 1464339300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464339300,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
@@ -13485,25 +11870,15 @@
   {
     "timestamp": 1464339600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464339600,
-    "diff": {
-      "category": "Email"
+      "category": "Email",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464339900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464339900,
-    "diff": {
-      "category": "General Design & Composition"
+      "category": "General Design & Composition",
+      "tz": "+02:00"
     }
   },
   {
@@ -13543,12 +11918,6 @@
     }
   },
   {
-    "timestamp": 1464340286,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464340359,
     "diff": {
       "category": "Uncategorized"
@@ -13562,18 +11931,6 @@
   },
   {
     "timestamp": 1464340444,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464340467,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464340477,
     "diff": {
       "category": "Uncategorized"
     }
@@ -13605,17 +11962,11 @@
   {
     "timestamp": 1464340500,
     "diff": {
-      "category": "General Software Development"
+      "status": "inMeeting"
     }
   },
   {
     "timestamp": 1464340630,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464340744,
     "diff": {
       "category": "Uncategorized"
     }
@@ -13641,13 +11992,13 @@
   {
     "timestamp": 1464340791,
     "diff": {
-      "category": "General Design & Composition"
+      "category": "Photos"
     }
   },
   {
     "timestamp": 1464340794,
     "diff": {
-      "category": "Photos"
+      "category": "General Design & Composition"
     }
   },
   {
@@ -13665,23 +12016,12 @@
   {
     "timestamp": 1464340800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464340800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464341069,
-    "diff": {
-      "category": "General Business"
-    }
-  },
-  {
-    "timestamp": 1464341084,
     "diff": {
       "category": "General Business"
     }
@@ -13773,61 +12113,35 @@
   {
     "timestamp": 1464343200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464343200,
-    "diff": {
-      "category": "General Software Development"
+      "status": "outOfMeeting"
     }
   },
   {
     "timestamp": 1464343500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464343500,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464343800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464343800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464344100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464344100,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464344400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464344400,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -13874,12 +12188,6 @@
   },
   {
     "timestamp": 1464349800,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464349938,
     "diff": {
       "category": "General Software Development"
     }
@@ -13947,13 +12255,8 @@
   {
     "timestamp": 1464350400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464350400,
-    "diff": {
-      "category": "Professional Networking"
+      "category": "Professional Networking",
+      "tz": "+02:00"
     }
   },
   {
@@ -13994,12 +12297,6 @@
   },
   {
     "timestamp": 1464350694,
-    "diff": {
-      "category": "Browsers"
-    }
-  },
-  {
-    "timestamp": 1464350696,
     "diff": {
       "category": "Browsers"
     }
@@ -14079,13 +12376,13 @@
   {
     "timestamp": 1464351286,
     "diff": {
-      "category": "Browsers"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464351289,
     "diff": {
-      "category": "General Software Development"
+      "category": "Browsers"
     }
   },
   {
@@ -14101,21 +12398,15 @@
     }
   },
   {
-    "timestamp": 1464351295,
+    "timestamp": 1464351296,
     "diff": {
       "category": "Professional Networking"
     }
   },
   {
-    "timestamp": 1464351296,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464351297,
     "diff": {
-      "category": "General Business"
+      "category": "General Software Development"
     }
   },
   {
@@ -14217,13 +12508,13 @@
   {
     "timestamp": 1464352492,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Design & Planning"
     }
   },
   {
     "timestamp": 1464352495,
     "diff": {
-      "category": "Design & Planning"
+      "category": "Uncategorized"
     }
   },
   {
@@ -14313,13 +12604,8 @@
   {
     "timestamp": 1464353100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464353100,
-    "diff": {
-      "category": "Music"
+      "category": "Music",
+      "tz": "+02:00"
     }
   },
   {
@@ -14343,13 +12629,8 @@
   {
     "timestamp": 1464353400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464353400,
-    "diff": {
-      "category": "Design & Planning"
+      "category": "Design & Planning",
+      "tz": "+02:00"
     }
   },
   {
@@ -14397,7 +12678,7 @@
   {
     "timestamp": 1464354000,
     "diff": {
-      "category": "Email"
+      "status": "inMeeting"
     }
   },
   {
@@ -14695,12 +12976,6 @@
     }
   },
   {
-    "timestamp": 1464356080,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464356081,
     "diff": {
       "category": "Nothing"
@@ -14871,13 +13146,8 @@
   {
     "timestamp": 1464357300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464357300,
-    "diff": {
-      "category": "Music"
+      "category": "Music",
+      "tz": "+02:00"
     }
   },
   {
@@ -14901,13 +13171,7 @@
   {
     "timestamp": 1464357600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464357600,
-    "diff": {
-      "category": "Instant Message"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -14919,13 +13183,8 @@
   {
     "timestamp": 1464357900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464357900,
-    "diff": {
-      "category": "Search"
+      "category": "Search",
+      "tz": "+02:00"
     }
   },
   {
@@ -14949,13 +13208,8 @@
   {
     "timestamp": 1464358200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464358200,
-    "diff": {
-      "category": "Search"
+      "category": "Search",
+      "tz": "+02:00"
     }
   },
   {
@@ -15003,7 +13257,7 @@
   {
     "timestamp": 1464359400,
     "diff": {
-      "category": "Writing"
+      "status": "inMeeting"
     }
   },
   {
@@ -15189,13 +13443,8 @@
   {
     "timestamp": 1464360600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464360600,
-    "diff": {
-      "category": "Search"
+      "category": "Search",
+      "tz": "+02:00"
     }
   },
   {
@@ -15225,7 +13474,7 @@
   {
     "timestamp": 1464363000,
     "diff": {
-      "category": "Email"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -15243,13 +13492,8 @@
   {
     "timestamp": 1464363300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464363300,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -15279,25 +13523,20 @@
   {
     "timestamp": 1464363566,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1464363583,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464363600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464363600,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -15309,23 +13548,12 @@
   {
     "timestamp": 1464363900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464363900,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464364048,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464364179,
     "diff": {
       "category": "General Software Development"
     }
@@ -15339,13 +13567,8 @@
   {
     "timestamp": 1464364200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464364200,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -15361,15 +13584,33 @@
     }
   },
   {
-    "timestamp": 1464364367,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464364371,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464364800,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
+    "timestamp": 1464368400,
+    "diff": {
+      "status": "outOfMeeting"
+    }
+  },
+  {
+    "timestamp": 1464458400,
+    "diff": {
+      "status": "inMeeting"
+    }
+  },
+  {
+    "timestamp": 1464476400,
+    "diff": {
+      "status": "outOfMeeting"
     }
   },
   {
@@ -15386,12 +13627,6 @@
   },
   {
     "timestamp": 1464589919,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464589938,
     "diff": {
       "category": "General Software Development"
     }
@@ -15422,12 +13657,6 @@
   },
   {
     "timestamp": 1464590100,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464590361,
     "diff": {
       "category": "General Software Development"
     }
@@ -15477,13 +13706,13 @@
   {
     "timestamp": 1464590663,
     "diff": {
-      "category": "General Utilities"
+      "category": "General Social Networking"
     }
   },
   {
     "timestamp": 1464590674,
     "diff": {
-      "category": "General Social Networking"
+      "category": "General Utilities"
     }
   },
   {
@@ -15495,13 +13724,13 @@
   {
     "timestamp": 1464590691,
     "diff": {
-      "category": "Instant Message"
+      "category": "Browsers"
     }
   },
   {
     "timestamp": 1464590695,
     "diff": {
-      "category": "Browsers"
+      "category": "Instant Message"
     }
   },
   {
@@ -15511,7 +13740,7 @@
     }
   },
   {
-    "timestamp": 1464590702,
+    "timestamp": 1464590700,
     "diff": {
       "category": "Editing & IDEs"
     }
@@ -15520,12 +13749,6 @@
     "timestamp": 1464590704,
     "diff": {
       "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464590700,
-    "diff": {
-      "category": "Editing & IDEs"
     }
   },
   {
@@ -15543,25 +13766,15 @@
   {
     "timestamp": 1464591000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464591000,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464591300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464591300,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -15579,13 +13792,8 @@
   {
     "timestamp": 1464591600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464591600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -15597,23 +13805,12 @@
   {
     "timestamp": 1464591900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464591900,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464592059,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1464592130,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -15657,13 +13854,8 @@
   {
     "timestamp": 1464592500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464592500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -15681,13 +13873,8 @@
   {
     "timestamp": 1464592800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464592800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -15705,7 +13892,7 @@
   {
     "timestamp": 1464593400,
     "diff": {
-      "category": "Calendars"
+      "status": "inMeeting"
     }
   },
   {
@@ -15764,12 +13951,6 @@
   },
   {
     "timestamp": 1464594000,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464594121,
     "diff": {
       "category": "Uncategorized"
     }
@@ -15903,19 +14084,7 @@
   {
     "timestamp": 1464594600,
     "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464594751,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464594881,
-    "diff": {
-      "category": "Uncategorized"
+      "status": "inMeeting"
     }
   },
   {
@@ -15987,7 +14156,7 @@
   {
     "timestamp": 1464595200,
     "diff": {
-      "category": "Editing & IDEs"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -16011,13 +14180,13 @@
   {
     "timestamp": 1464595444,
     "diff": {
-      "category": "General Software Development"
+      "category": "Marketing"
     }
   },
   {
     "timestamp": 1464595455,
     "diff": {
-      "category": "Marketing"
+      "category": "General Software Development"
     }
   },
   {
@@ -16070,12 +14239,6 @@
   },
   {
     "timestamp": 1464595500,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464595611,
     "diff": {
       "category": "General Software Development"
     }
@@ -16142,12 +14305,6 @@
   },
   {
     "timestamp": 1464596262,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464596307,
     "diff": {
       "category": "Uncategorized"
     }
@@ -16255,12 +14412,6 @@
     }
   },
   {
-    "timestamp": 1464596995,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464596997,
     "diff": {
       "category": "Calendars"
@@ -16275,7 +14426,7 @@
   {
     "timestamp": 1464597000,
     "diff": {
-      "category": "Intelligence"
+      "status": "inMeeting"
     }
   },
   {
@@ -16323,13 +14474,8 @@
   {
     "timestamp": 1464597300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464597300,
-    "diff": {
-      "category": "Sales"
+      "category": "Sales",
+      "tz": "+02:00"
     }
   },
   {
@@ -16377,19 +14523,19 @@
   {
     "timestamp": 1464597565,
     "diff": {
-      "category": "General Business"
+      "category": "Calendars"
     }
   },
   {
     "timestamp": 1464597572,
     "diff": {
-      "category": "Browsers"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464597579,
     "diff": {
-      "category": "Calendars"
+      "category": "Browsers"
     }
   },
   {
@@ -16407,13 +14553,13 @@
   {
     "timestamp": 1464597595,
     "diff": {
-      "category": "General Software Development"
+      "category": "General News & Opinion"
     }
   },
   {
     "timestamp": 1464597597,
     "diff": {
-      "category": "General News & Opinion"
+      "category": "General Software Development"
     }
   },
   {
@@ -16425,37 +14571,22 @@
   {
     "timestamp": 1464597600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464597600,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464597900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464597900,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464598200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464598200,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -16467,25 +14598,15 @@
   {
     "timestamp": 1464598500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464598500,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464598800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464598800,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -16497,13 +14618,8 @@
   {
     "timestamp": 1464599100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464599100,
-    "diff": {
-      "category": "Writing"
+      "category": "Writing",
+      "tz": "+02:00"
     }
   },
   {
@@ -16525,21 +14641,10 @@
     }
   },
   {
-    "timestamp": 1464599398,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464599400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464599400,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -16575,19 +14680,8 @@
   {
     "timestamp": 1464599700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464599700,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464599958,
-    "diff": {
-      "category": "Uncategorized"
+      "category": "Uncategorized",
+      "tz": "+02:00"
     }
   },
   {
@@ -16605,13 +14699,8 @@
   {
     "timestamp": 1464600000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464600000,
-    "diff": {
-      "category": "Design & Planning"
+      "category": "Design & Planning",
+      "tz": "+02:00"
     }
   },
   {
@@ -16622,12 +14711,6 @@
   },
   {
     "timestamp": 1464600185,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464600243,
     "diff": {
       "category": "Uncategorized"
     }
@@ -16675,12 +14758,6 @@
     }
   },
   {
-    "timestamp": 1464600450,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464600497,
     "diff": {
       "category": "Email"
@@ -16711,51 +14788,39 @@
     }
   },
   {
-    "timestamp": 1464600585,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464600587,
-    "diff": {
-      "category": "Design & Planning"
-    }
-  },
-  {
     "timestamp": 1464600588,
-    "diff": {
-      "category": "General Utilities"
-    }
-  },
-  {
-    "timestamp": 1464600589,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464600590,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464600591,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464600592,
     "diff": {
       "category": "Professional Networking"
     }
   },
   {
-    "timestamp": 1464600593,
+    "timestamp": 1464600589,
     "diff": {
       "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464600590,
+    "diff": {
+      "category": "Design & Planning"
+    }
+  },
+  {
+    "timestamp": 1464600591,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464600592,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464600593,
+    "diff": {
+      "category": "Uncategorized"
     }
   },
   {
@@ -16767,7 +14832,7 @@
   {
     "timestamp": 1464600600,
     "diff": {
-      "category": "Calendars"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -16819,21 +14884,15 @@
     }
   },
   {
-    "timestamp": 1464600779,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464600782,
     "diff": {
-      "category": "Uncategorized"
+      "category": "Sales"
     }
   },
   {
     "timestamp": 1464600783,
     "diff": {
-      "category": "Sales"
+      "category": "Uncategorized"
     }
   },
   {
@@ -16857,13 +14916,13 @@
   {
     "timestamp": 1464601292,
     "diff": {
-      "category": "General Software Development"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464601305,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Software Development"
     }
   },
   {
@@ -16886,12 +14945,6 @@
   },
   {
     "timestamp": 1464601500,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464601671,
     "diff": {
       "category": "Uncategorized"
     }
@@ -16928,12 +14981,6 @@
   },
   {
     "timestamp": 1464601993,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1464602063,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -16988,12 +15035,6 @@
   },
   {
     "timestamp": 1464602400,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464602524,
     "diff": {
       "category": "General Software Development"
     }
@@ -17065,12 +15106,6 @@
     }
   },
   {
-    "timestamp": 1464602987,
-    "diff": {
-      "category": "Search"
-    }
-  },
-  {
     "timestamp": 1464602996,
     "diff": {
       "category": "Uncategorized"
@@ -17083,21 +15118,10 @@
     }
   },
   {
-    "timestamp": 1464602999,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
     "timestamp": 1464603000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464603000,
-    "diff": {
-      "category": "General Social Networking"
+      "category": "General Social Networking",
+      "tz": "+02:00"
     }
   },
   {
@@ -17169,13 +15193,13 @@
   {
     "timestamp": 1464607468,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Social Networking"
     }
   },
   {
     "timestamp": 1464607473,
     "diff": {
-      "category": "General Social Networking"
+      "category": "Uncategorized"
     }
   },
   {
@@ -17221,19 +15245,7 @@
     }
   },
   {
-    "timestamp": 1464607767,
-    "diff": {
-      "category": "General Social Networking"
-    }
-  },
-  {
     "timestamp": 1464607782,
-    "diff": {
-      "category": "Browsers"
-    }
-  },
-  {
-    "timestamp": 1464607788,
     "diff": {
       "category": "Browsers"
     }
@@ -17331,13 +15343,8 @@
   {
     "timestamp": 1464608400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464608400,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17355,13 +15362,8 @@
   {
     "timestamp": 1464608700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464608700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17373,13 +15375,8 @@
   {
     "timestamp": 1464609000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464609000,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -17451,13 +15448,8 @@
   {
     "timestamp": 1464609600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464609600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17469,13 +15461,8 @@
   {
     "timestamp": 1464609900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464609900,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17499,13 +15486,8 @@
   {
     "timestamp": 1464610200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464610200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17523,13 +15505,8 @@
   {
     "timestamp": 1464610500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464610500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17541,13 +15518,8 @@
   {
     "timestamp": 1464610800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464610800,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -17577,13 +15549,8 @@
   {
     "timestamp": 1464611100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464611100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17593,21 +15560,15 @@
     }
   },
   {
-    "timestamp": 1464611378,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464611393,
     "diff": {
-      "category": "Systems Operations"
+      "category": "General Reference & Learning"
     }
   },
   {
     "timestamp": 1464611395,
     "diff": {
-      "category": "General Reference & Learning"
+      "category": "Systems Operations"
     }
   },
   {
@@ -17637,13 +15598,8 @@
   {
     "timestamp": 1464611700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464611700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17709,13 +15665,8 @@
   {
     "timestamp": 1464612300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464612300,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17727,13 +15678,8 @@
   {
     "timestamp": 1464612600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464612600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17745,25 +15691,15 @@
   {
     "timestamp": 1464612900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464612900,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464613200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464613200,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17827,12 +15763,6 @@
     }
   },
   {
-    "timestamp": 1464613755,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464613783,
     "diff": {
       "category": "Systems Operations"
@@ -17853,13 +15783,8 @@
   {
     "timestamp": 1464613800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464613800,
-    "diff": {
-      "category": "Design & Planning"
+      "category": "Design & Planning",
+      "tz": "+02:00"
     }
   },
   {
@@ -17883,13 +15808,13 @@
   {
     "timestamp": 1464613997,
     "diff": {
-      "category": "Quality Assurance"
+      "category": "Systems Operations"
     }
   },
   {
     "timestamp": 1464614030,
     "diff": {
-      "category": "Systems Operations"
+      "category": "Quality Assurance"
     }
   },
   {
@@ -17907,19 +15832,19 @@
   {
     "timestamp": 1464614080,
     "diff": {
-      "category": "General Software Development"
+      "category": "Search"
     }
   },
   {
     "timestamp": 1464614085,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464614090,
     "diff": {
-      "category": "Search"
+      "category": "Uncategorized"
     }
   },
   {
@@ -17955,13 +15880,8 @@
   {
     "timestamp": 1464614400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464614400,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -17985,13 +15905,8 @@
   {
     "timestamp": 1464614700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464614700,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -18009,13 +15924,8 @@
   {
     "timestamp": 1464615000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464615000,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -18033,31 +15943,21 @@
   {
     "timestamp": 1464615300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464615300,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464615450,
     "diff": {
-      "category": "Systems Operations"
+      "category": "Editing & IDEs"
     }
   },
   {
     "timestamp": 1464615600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464615600,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -18069,19 +15969,8 @@
   {
     "timestamp": 1464615900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464615900,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464616003,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -18201,13 +16090,7 @@
   {
     "timestamp": 1464616800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464616800,
-    "diff": {
-      "category": "Systems Operations"
+      "status": "inMeeting"
     }
   },
   {
@@ -18237,13 +16120,13 @@
   {
     "timestamp": 1464617095,
     "diff": {
-      "category": "Quality Assurance"
+      "category": "Engineering & Technology"
     }
   },
   {
     "timestamp": 1464617097,
     "diff": {
-      "category": "Engineering & Technology"
+      "category": "Quality Assurance"
     }
   },
   {
@@ -18290,12 +16173,6 @@
   },
   {
     "timestamp": 1464617389,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464617394,
     "diff": {
       "category": "General Software Development"
     }
@@ -18356,12 +16233,6 @@
   },
   {
     "timestamp": 1464617694,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464617697,
     "diff": {
       "category": "Uncategorized"
     }
@@ -18519,13 +16390,8 @@
   {
     "timestamp": 1464618900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464618900,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -18537,13 +16403,8 @@
   {
     "timestamp": 1464619200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464619200,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -18567,23 +16428,12 @@
   {
     "timestamp": 1464619500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464619500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464619655,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464619718,
     "diff": {
       "category": "General Software Development"
     }
@@ -18627,13 +16477,8 @@
   {
     "timestamp": 1464620100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464620100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -18645,13 +16490,7 @@
   {
     "timestamp": 1464620400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464620400,
-    "diff": {
-      "category": "Systems Operations"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -18669,25 +16508,20 @@
   {
     "timestamp": 1464620696,
     "diff": {
-      "category": "Sales"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464620698,
     "diff": {
-      "category": "General Software Development"
+      "category": "Sales"
     }
   },
   {
     "timestamp": 1464620700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464620700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -18717,13 +16551,8 @@
   {
     "timestamp": 1464621000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464621000,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -18777,13 +16606,8 @@
   {
     "timestamp": 1464621600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464621600,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -18796,6 +16620,12 @@
     "timestamp": 1464621880,
     "diff": {
       "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464622200,
+    "diff": {
+      "status": "inMeeting"
     }
   },
   {
@@ -18849,13 +16679,7 @@
   {
     "timestamp": 1464623100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464623100,
-    "diff": {
-      "category": "Uncategorized"
+      "status": "outOfMeeting"
     }
   },
   {
@@ -18896,12 +16720,6 @@
   },
   {
     "timestamp": 1464623400,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
-    "timestamp": 1464623670,
     "diff": {
       "category": "Uncategorized"
     }
@@ -18957,13 +16775,8 @@
   {
     "timestamp": 1464624000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464624000,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19021,21 +16834,10 @@
     }
   },
   {
-    "timestamp": 1464624595,
-    "diff": {
-      "category": "Uncategorized"
-    }
-  },
-  {
     "timestamp": 1464624600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464624600,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19053,13 +16855,8 @@
   {
     "timestamp": 1464624900,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464624900,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19089,13 +16886,8 @@
   {
     "timestamp": 1464625200,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464625200,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19113,13 +16905,8 @@
   {
     "timestamp": 1464625500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464625500,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19131,13 +16918,8 @@
   {
     "timestamp": 1464625800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464625800,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19167,13 +16949,8 @@
   {
     "timestamp": 1464626100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464626100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19185,13 +16962,8 @@
   {
     "timestamp": 1464626400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464626400,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19203,13 +16975,8 @@
   {
     "timestamp": 1464626700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464626700,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19221,13 +16988,8 @@
   {
     "timestamp": 1464627000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464627000,
-    "diff": {
-      "category": "General Software Development"
+      "category": "General Software Development",
+      "tz": "+02:00"
     }
   },
   {
@@ -19305,13 +17067,8 @@
   {
     "timestamp": 1464627600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464627600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19322,12 +17079,6 @@
   },
   {
     "timestamp": 1464627806,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
-    "timestamp": 1464627843,
     "diff": {
       "category": "General Software Development"
     }
@@ -19407,13 +17158,13 @@
   {
     "timestamp": 1464628184,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Software Development"
     }
   },
   {
     "timestamp": 1464628187,
     "diff": {
-      "category": "General Software Development"
+      "category": "Uncategorized"
     }
   },
   {
@@ -19449,25 +17200,15 @@
   {
     "timestamp": 1464628500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464628500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464628800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464628800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19491,25 +17232,15 @@
   {
     "timestamp": 1464629100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464629100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464629400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464629400,
-    "diff": {
-      "category": "Quality Assurance"
+      "category": "Quality Assurance",
+      "tz": "+02:00"
     }
   },
   {
@@ -19587,19 +17318,19 @@
   {
     "timestamp": 1464629995,
     "diff": {
-      "category": "General Social Networking"
+      "category": "General Business"
     }
   },
   {
     "timestamp": 1464629996,
     "diff": {
-      "category": "General Business"
+      "category": "Uncategorized"
     }
   },
   {
     "timestamp": 1464629997,
     "diff": {
-      "category": "Uncategorized"
+      "category": "General Social Networking"
     }
   },
   {
@@ -19669,12 +17400,6 @@
     }
   },
   {
-    "timestamp": 1464637358,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464637429,
     "diff": {
       "category": "Editing & IDEs"
@@ -19723,12 +17448,6 @@
     }
   },
   {
-    "timestamp": 1464637784,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464637797,
     "diff": {
       "category": "Systems Operations"
@@ -19737,13 +17456,8 @@
   {
     "timestamp": 1464637800,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464637800,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19761,13 +17475,8 @@
   {
     "timestamp": 1464638100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464638100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19797,13 +17506,8 @@
   {
     "timestamp": 1464638400,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464638400,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19819,21 +17523,10 @@
     }
   },
   {
-    "timestamp": 1464638694,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
     "timestamp": 1464638700,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464638700,
-    "diff": {
-      "category": "Engineering & Technology"
+      "category": "Engineering & Technology",
+      "tz": "+02:00"
     }
   },
   {
@@ -19863,13 +17556,8 @@
   {
     "timestamp": 1464639000,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464639000,
-    "diff": {
-      "category": "Systems Operations"
+      "category": "Systems Operations",
+      "tz": "+02:00"
     }
   },
   {
@@ -19893,13 +17581,8 @@
   {
     "timestamp": 1464639300,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464639300,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -19989,13 +17672,8 @@
   {
     "timestamp": 1464640500,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464640500,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -20049,13 +17727,8 @@
   {
     "timestamp": 1464641100,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464641100,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
@@ -20113,12 +17786,6 @@
     }
   },
   {
-    "timestamp": 1464641907,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464641955,
     "diff": {
       "category": "Editing & IDEs"
@@ -20149,12 +17816,6 @@
     }
   },
   {
-    "timestamp": 1464642205,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464642244,
     "diff": {
       "category": "Systems Operations"
@@ -20168,12 +17829,6 @@
   },
   {
     "timestamp": 1464642289,
-    "diff": {
-      "category": "Engineering & Technology"
-    }
-  },
-  {
-    "timestamp": 1464642294,
     "diff": {
       "category": "Engineering & Technology"
     }
@@ -20209,45 +17864,2609 @@
     }
   },
   {
-    "timestamp": 1464642589,
-    "diff": {
-      "category": "General Software Development"
-    }
-  },
-  {
     "timestamp": 1464642600,
     "diff": {
-      "category": "Nothing"
-    }
-  },
-  {
-    "timestamp": 1464642600,
-    "diff": {
-      "category": "Editing & IDEs"
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
     }
   },
   {
     "timestamp": 1464642737,
     "diff": {
+      "category": "Quality Assurance"
+    }
+  },
+  {
+    "timestamp": 1464642819,
+    "diff": {
       "category": "Systems Operations"
     }
   },
   {
-    "timestamp": 1464642804,
+    "timestamp": 1464642886,
     "diff": {
       "category": "General Software Development"
     }
   },
   {
-    "timestamp": 1464642813,
+    "timestamp": 1464642900,
+    "diff": {
+      "category": "Quality Assurance",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464643003,
     "diff": {
       "category": "General Software Development"
     }
   },
   {
-    "timestamp": 1464642818,
+    "timestamp": 1464643096,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464643151,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464643192,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464643199,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464643200,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464643330,
     "diff": {
       "category": "Quality Assurance"
+    }
+  },
+  {
+    "timestamp": 1464643421,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464643480,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464643500,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464643661,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464643735,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464643776,
+    "diff": {
+      "category": "Quality Assurance"
+    }
+  },
+  {
+    "timestamp": 1464643797,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464643800,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464643891,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464643977,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464644048,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464644081,
+    "diff": {
+      "category": "Quality Assurance"
+    }
+  },
+  {
+    "timestamp": 1464644091,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464644099,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464644100,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464644233,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464644318,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464644400,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464644514,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464669000,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464669132,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464669135,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464669300,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464669302,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464676200,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464676294,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464676326,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464676356,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464676364,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464676500,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464676574,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464676636,
+    "diff": {
+      "category": "Design & Planning"
+    }
+  },
+  {
+    "timestamp": 1464676691,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464676735,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464676759,
+    "diff": {
+      "category": "Design & Planning"
+    }
+  },
+  {
+    "timestamp": 1464676775,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464676787,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464676792,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464676796,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464676800,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464676988,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464677082,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464677100,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464677391,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464677398,
+    "diff": {
+      "category": "Writing"
+    }
+  },
+  {
+    "timestamp": 1464677399,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464677400,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464677521,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464677644,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464677668,
+    "diff": {
+      "category": "Writing"
+    }
+  },
+  {
+    "timestamp": 1464677691,
+    "diff": {
+      "category": "General Communication & Scheduling"
+    }
+  },
+  {
+    "timestamp": 1464677700,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464677875,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464677935,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464677963,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464677977,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464677990,
+    "diff": {
+      "category": "General Communication & Scheduling"
+    }
+  },
+  {
+    "timestamp": 1464677997,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464677998,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464678000,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464678210,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464678288,
+    "diff": {
+      "category": "General Communication & Scheduling"
+    }
+  },
+  {
+    "timestamp": 1464678297,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464678298,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464678300,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464678481,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464678600,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464678862,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464678900,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464679085,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464679184,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464679195,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464679199,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464679200,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464679377,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464679470,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464679500,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464679575,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464679626,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464679646,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464679664,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464680700,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464680743,
+    "diff": {
+      "category": "General Business"
+    }
+  },
+  {
+    "timestamp": 1464680781,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464680808,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464680828,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464680845,
+    "diff": {
+      "category": "Music"
+    }
+  },
+  {
+    "timestamp": 1464680861,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464680890,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464680904,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464680915,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464680920,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464680922,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464681000,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464681067,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464681128,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464681181,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464681234,
+    "diff": {
+      "category": "General Business"
+    }
+  },
+  {
+    "timestamp": 1464681275,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464681290,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464681295,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464681297,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464681299,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464681300,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464681323,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464681900,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464682010,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464682049,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464682087,
+    "diff": {
+      "category": "General Business"
+    }
+  },
+  {
+    "timestamp": 1464682111,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464682132,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464682141,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464682158,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464682173,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464682200,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464682475,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464682500,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464682753,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464682785,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464682800,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464682954,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464683091,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464683100,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464683390,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464683396,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464683400,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464683484,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464683533,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464683563,
+    "diff": {
+      "category": "General Business"
+    }
+  },
+  {
+    "timestamp": 1464683590,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464683613,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464683629,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464683645,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464683656,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464683664,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464683671,
+    "diff": {
+      "category": "Internet Utilities"
+    }
+  },
+  {
+    "timestamp": 1464683675,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464683679,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464683700,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464683914,
+    "diff": {
+      "category": "General Business"
+    }
+  },
+  {
+    "timestamp": 1464683945,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464683964,
+    "diff": {
+      "category": "Quality Assurance"
+    }
+  },
+  {
+    "timestamp": 1464683978,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464683983,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464683987,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464683991,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464683992,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464683993,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464684000,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464684184,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464684297,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464684298,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464684300,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464684595,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464684600,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464684808,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464684900,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464685076,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464685160,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464685177,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464685190,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464685197,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464685199,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464685200,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464685322,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464685425,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464685475,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464685493,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464685498,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464685500,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464685620,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464685720,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464685798,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464685800,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464686015,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464686099,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464686100,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464686400,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464686561,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464686700,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464686858,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464686981,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464687000,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464687236,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464687300,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464687468,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464687531,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464687580,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464687600,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464687799,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464687882,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464687900,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464688200,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464688419,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464688474,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464688500,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464688630,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464688669,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464692100,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464692166,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464692212,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464692253,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464692290,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464692298,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464692301,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464692303,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464692400,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464692463,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464692524,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464692572,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464692617,
+    "diff": {
+      "category": "Professional Networking"
+    }
+  },
+  {
+    "timestamp": 1464692655,
+    "diff": {
+      "category": "General Social Networking"
+    }
+  },
+  {
+    "timestamp": 1464692684,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464692692,
+    "diff": {
+      "category": "Design & Planning"
+    }
+  },
+  {
+    "timestamp": 1464692696,
+    "diff": {
+      "category": "General Social Networking"
+    }
+  },
+  {
+    "timestamp": 1464692697,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464692698,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464692700,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464692768,
+    "diff": {
+      "category": "General Social Networking"
+    }
+  },
+  {
+    "timestamp": 1464692834,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464692898,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464692929,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464692949,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464692967,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464692976,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464692983,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464692990,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464692991,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464693000,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464693130,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464693216,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464693300,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464693383,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464693433,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464693449,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464693600,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464693643,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464693676,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464693701,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464693900,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464694111,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464694163,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464694197,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464694198,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464694199,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464694200,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464694352,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464694412,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464694463,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464694500,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464694633,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464694714,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464694755,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464694783,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464694789,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464694795,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464694797,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464694799,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464694800,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464694917,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464694970,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464695053,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464695076,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464695084,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464695092,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464695097,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464695098,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464695100,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464695237,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464695344,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464695393,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464695400,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464695651,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464695694,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464695698,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464695700,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464695968,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464696000,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464696120,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464696170,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464696212,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464696251,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464696282,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464696294,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464696298,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464696300,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464696442,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464696558,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464696579,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464696594,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464696600,
+    "diff": {
+      "category": "Intelligence",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464696718,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464696813,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464696878,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464696897,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464696900,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464697072,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464697170,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464697186,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464697200,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464697427,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464697500,
+    "diff": {
+      "category": "Engineering & Technology",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464697611,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464697697,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464697781,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464697800,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464697951,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464698062,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464698092,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464698100,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464698257,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464698349,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464698400,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464698522,
+    "diff": {
+      "category": "Video"
+    }
+  },
+  {
+    "timestamp": 1464698610,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464698656,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464698673,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464698685,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464698693,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464698699,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464698700,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464698898,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464698983,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464698989,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464698994,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464698998,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464699000,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464699215,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464699255,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464699272,
+    "diff": {
+      "category": "Engineering & Technology"
+    }
+  },
+  {
+    "timestamp": 1464699283,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464699293,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464699298,
+    "diff": {
+      "category": "Calendars"
+    }
+  },
+  {
+    "timestamp": 1464699300,
+    "diff": {
+      "category": "Instant Message",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464699453,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464699594,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464699600,
+    "diff": {
+      "category": "Browsers",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464699718,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464699845,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464699884,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464699900,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464700149,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464700179,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464700199,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464700200,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464700492,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464700499,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464700500,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464700790,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464700795,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464700800,
+    "diff": {
+      "category": "Email",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464701012,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464701070,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464701088,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464701094,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464701099,
+    "diff": {
+      "category": "General Utilities"
+    }
+  },
+  {
+    "timestamp": 1464701100,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464701258,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464701329,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464701393,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464701397,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464701399,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464701400,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464701607,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464701700,
+    "diff": {
+      "category": "Editing & IDEs",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464701868,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464701880,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464702000,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464702077,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464702300,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464702539,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464702591,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464702600,
+    "diff": {
+      "category": "Systems Operations",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464702809,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464702857,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464702886,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464702899,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464702900,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703116,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464703149,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464703181,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464703198,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464703200,
+    "diff": {
+      "category": "Uncategorized",
+      "tz": "+02:00"
+    }
+  },
+  {
+    "timestamp": 1464703286,
+    "diff": {
+      "category": "Editing & IDEs"
+    }
+  },
+  {
+    "timestamp": 1464703347,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464703398,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703443,
+    "diff": {
+      "category": "Design & Planning"
+    }
+  },
+  {
+    "timestamp": 1464703474,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464703484,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464703491,
+    "diff": {
+      "category": "Intelligence"
+    }
+  },
+  {
+    "timestamp": 1464703494,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464703497,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464703500,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464703711,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464703776,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703785,
+    "diff": {
+      "category": "General Software Development"
+    }
+  },
+  {
+    "timestamp": 1464703788,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703791,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464703793,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703794,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464703795,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464703796,
+    "diff": {
+      "category": "Marketing"
+    }
+  },
+  {
+    "timestamp": 1464703797,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464703798,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464703800,
+    "diff": {
+      "category": "Email"
+    }
+  },
+  {
+    "timestamp": 1464703841,
+    "diff": {
+      "category": "Search"
+    }
+  },
+  {
+    "timestamp": 1464703842,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464704400,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464704455,
+    "diff": {
+      "category": "Systems Operations"
+    }
+  },
+  {
+    "timestamp": 1464704468,
+    "diff": {
+      "category": "Instant Message"
+    }
+  },
+  {
+    "timestamp": 1464704478,
+    "diff": {
+      "category": "Browsers"
+    }
+  },
+  {
+    "timestamp": 1464704481,
+    "diff": {
+      "category": "Uncategorized"
+    }
+  },
+  {
+    "timestamp": 1464704484,
+    "diff": {
+      "category": "Nothing"
+    }
+  },
+  {
+    "timestamp": 1464705000,
+    "diff": {
+      "category": "Search"
     }
   }
 ]

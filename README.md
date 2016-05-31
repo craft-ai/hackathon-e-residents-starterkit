@@ -11,15 +11,18 @@ realized as a support for the Hackathon [Hack The Office](http://hacktheoffice.b
 - in this directory, create a `.env` file setting the following variables:
     - `CRAFT_TOKEN` allows you to [authenticate your calls to the **craft ai** API](https://beta.craft.ai/doc#header-authentication),
     - `CRAFT_OWNER` define the **owner** of the craft ai agents that will be created _(at the moment you can use any string w/o spaces)_,
-    - (optional) `RESCUETIME_API_KEY` allows you to retrieve your own data from [RescueTime](https://www.rescuetime.com).
+    - (optional) `RESCUETIME_API_KEY` allows you to retrieve your own data from [RescueTime](https://www.rescuetime.com);
+    - (optionnal) `GOOGLE_API_CLIENT_ID`, `GOOGLE_API_CLIENT_SECRET` & `GOOGLE_API_PROJECT_ID` allows to retrieve your own data from Google calendar, follow [this guide](https://developers.google.com/google-apps/calendar/quickstart/nodejs#step_1_turn_on_the_api_name) to retrieve the values from the Google API generated `json` file.
 
 ### Using ###
 
 ```console
-> nnode ./src/main.js --help       
+> node ./src/main.js --help       
 Commands:
   retrieve_data  Retrieve and format activity data from RescueTime
-                 (`RESCUETIME_API_KEY` env variable needed)
+                 (`RESCUETIME_API_KEY`, `GOOGLE_API_CLIENT_ID`,
+                 `GOOGLE_API_CLIENT_SECRET` & `GOOGLE_API_PROJECT_ID` env
+                 variables needed)
   learn          Create an agent and provide it with the given operations
                  (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)
 

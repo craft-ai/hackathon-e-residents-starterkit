@@ -1,11 +1,11 @@
-var moment = require('Moment');
 var _ = require('lodash');
+var moment = require('moment-timezone');
 
 function diffsFromActivities(activities) {
   return _(activities.rows)
     .map(function(activityRow) {
       return {
-        originalDate: moment(activityRow[0]),
+        originalDate: moment.tz(activityRow[0], 'Europe/Paris'),
         duration: activityRow[1],
         activity: activityRow[3],
         category: activityRow[4]
@@ -33,16 +33,74 @@ function diffsFromActivities(activities) {
       return {
         timestamp: activity.date.unix(),
         diff: {
-          category: activity.category
+          category: activity.category,
+          tz: activity.date.format('Z')
         }
       }
     })
-    .tap(function(operations) {
-      operations[0].diff.tz = '+00:00';
-     })
+    .value();
+}
+
+function diffsFromEvents(events) {
+  console.log(events);
+  return _(events)
+    .map(function(event) {
+      return [
+        {
+          timestamp: moment.tz(event.start.dateTime, event.start.timeZone || 'Europe/Paris').unix(),
+          diff: {
+            status: 'inMeeting'
+          }
+        },
+        {
+          timestamp: moment.tz(event.end.dateTime, event.end.timeZone || 'Europe/Paris').unix(),
+          diff: {
+            status: 'outOfMeeting'
+          }
+        }
+      ]
+    })
+    .flatten()
+    .sortBy(function(diff) { return diff.timestamp; })
+    .value();
+}
+
+function mergeDiffsLists(diffLists) {
+  var state = {};
+  return _(diffLists)
+    .flatten()
+    .sortBy(function(diff) { return diff.timestamp; })
+    .reduce(function(sanitizedDiffList, diff) {
+      var prevDiff = sanitizedDiffList.last();
+      if (prevDiff) {
+        if (prevDiff.timestamp === diff.timestamp) {
+          sanitizedDiffList = sanitizedDiffList.dropRight();
+          diff = _.extend(prevDiff, diff);
+        }
+        else {
+          _.each(_.keys(state), function(key) {
+            if (state[key] === diff.diff[key]) {
+              diff.diff = _.omit(diff.diff, [ key ]);
+            }
+          });
+          if (_.size(diff.diff) === 0) {
+            diff = undefined;
+          }
+        }
+      }
+      if (diff) {
+        state = _.extend(state, diff.diff);
+        return sanitizedDiffList.concat(diff);
+      }
+      else {
+        return sanitizedDiffList;
+      }
+    }, _([]))
     .value();
 }
 
 module.exports = {
-  diffsFromActivities: diffsFromActivities
+  diffsFromActivities: diffsFromActivities,
+  diffsFromEvents: diffsFromEvents,
+  mergeDiffsLists: mergeDiffsLists
 }

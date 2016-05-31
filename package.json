@@ -20,8 +20,10 @@
     "bluebird": "3.4.0",
     "craft-ai": "0.1.1",
     "dotenv": "2.0.0",
+    "google-auth-library": "0.9.8",
+    "googleapis": "7.1.0",
     "lodash": "3.10.1",
-    "moment": "2.11.1",
+    "moment-timezone": "0.5.4",
     "node-fetch": "1.5.2",
     "yargs": "4.7.1"
   }
