@@ -15,7 +15,7 @@ function retrieveActivityLog(from, to) {
       key: RESCUETIME_API_KEY,
       format: 'json',
       perspective: 'interval',
-      resolution_time: 'hour',
+      resolution_time: 'minute',
       restrict_begin: moment(from).format('YYYY-MM-DD'),
       restrict_end: moment(to).format('YYYY-MM-DD')
     }
