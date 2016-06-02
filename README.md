@@ -29,6 +29,8 @@ Commands:
                            variable needed)
   destroy <agent_id>       Destroy a previously created agent (`CRAFT_OWNER` &
                            `CRAFT_TOKEN` env variable needed)
+  decide <agent_id>        Take a decision using the given agent (`CRAFT_OWNER`
+                           & `CRAFT_TOKEN` env variable needed)
 
 Options:
   --help  Show help                                                    [boolean]
@@ -63,6 +65,18 @@ src/main.js destroy <agent_id>
 Options:
   --help  Show help                                                    [boolean]
 ```
+
+```console
+src/main.js decide <agent_id>
+
+Options:
+  --help    Show help                                                  [boolean]
+  --status  Current status
+                [choices: "inMeeting", "outOfMeeting"] [default: "outOfMeeting"]
+  --at      Date at which the decision is taken (expects "YYYY-MM-DDTHH:MM")
+                                                   [default: "2016-06-02T13:06"]
+```
+
 ### Resources ###
 
 - [craft ai documentation](https://beta.craft.ai)

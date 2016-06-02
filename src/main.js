@@ -31,8 +31,8 @@ yargs
         });
     },
     function(argv) {
-      const from = moment(argv.from);
-      const to = moment(argv.to);
+      var from = moment(argv.from);
+      var to = moment(argv.to);
       console.log('Retrieving data from ' + from.format() + ' to ' + to.format() + '...');
       Promise.all([
         rescueTime.retrieveActivityLog(from, to),
@@ -49,11 +49,11 @@ yargs
           var diffList = utils.mergeDiffsLists([
             [
               {
-                "timestamp": from.unix(),
-                "diff": {
-                  "category": "Nothing",
-                  "status": "outOfMeeting",
-                  "tz": "+02:00"
+                timestamp: from.unix(),
+                diff: {
+                  category: 'Nothing',
+                  status: 'outOfMeeting',
+                  tz: '+02:00'
                 }
               }
             ], activitiesDiffList, eventsDiffList ]);
@@ -162,6 +162,49 @@ yargs
       client.destroyAgent(argv.agent_id)
         .then(function(agent) {
           console.log('Successfully destroyed agent "' + agent.id + '" !');
+        })
+        .catch(function(err) {
+          console.log(err);
+        });
+    }
+  )
+  .command(
+    'decide <agent_id>',
+    'Take a decision using the given agent (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)',
+    function(yargs) {
+      return yargs
+        .option('status', {
+          default: 'outOfMeeting',
+          describe: 'Current status',
+          choices: ['inMeeting', 'outOfMeeting']
+        })
+        .option('at', {
+          default: moment().format('YYYY-MM-DDTHH:MM'),
+          describe: 'Date at which the decision is taken (expects "YYYY-MM-DDTHH:MM")'
+        });
+      return yargs;
+    },
+    function(argv) {
+      var client = craftai({
+        owner: process.env.CRAFT_OWNER,
+        token: process.env.CRAFT_TOKEN
+      });
+      var at = moment(argv.at);
+      client.getAgent(argv.agent_id)
+        .then(function(agent) {
+          return client.computeAgentDecision(argv.agent_id, agent.lastTimestamp, {
+            status: argv.status,
+            time: at.hour() + at.minute() / 60,
+            day: at.day(),
+            tz: '+02:00'
+          })
+        })
+        .then(function(r) {
+          console.log('The agent "' + argv.agent_id + '" (at t=' + r.timestamp + ') has spoken...');
+          console.log(at.calendar() + ' (' + at.format('YYYY-MM-DDTHH:mm') + ')');
+          console.log('if "' + argv.status + '"')
+          console.log('it expects you to be doing "' + r.decision.category  + '"');
+          console.log('with a confidence of ' + Math.round(r.confidence * 100) + '%' );
         })
         .catch(function(err) {
           console.log(err);
