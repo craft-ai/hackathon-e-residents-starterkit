@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "bluebird": "3.4.0",
-    "craft-ai": "0.1.1",
+    "craft-ai": "0.1.2",
     "dotenv": "2.0.0",
     "google-auth-library": "0.9.8",
     "googleapis": "7.1.0",

@@ -1,16 +1,15 @@
-var _ = require('lodash');
-var craftai = require('craft-ai').createClient;
 var dotenv = require('dotenv');
-var fs = require('fs');
-var moment = require('moment-timezone');
-var Promise = require('bluebird');
-var yargs = require('yargs');
-
 dotenv.load();
 
-var rescueTime = require('./lib/rescueTime');
+var _ = require('lodash');
+var craftai = require('craft-ai').createClient;
+var fs = require('fs');
 var googleCalendar = require('./lib/googleCalendar');
+var moment = require('moment-timezone');
+var Promise = require('bluebird');
+var rescueTime = require('./lib/rescueTime');
 var utils = require('./lib/utils');
+var yargs = require('yargs');
 
 // Data retrieval
 yargs
@@ -83,14 +82,10 @@ yargs
     }
   )
   .command(
-    'learn',
+    'learn <operations_file>',
     'Create an agent and provide it with the given operations (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)',
     function(yargs) {
-      return yargs
-        .option('operations', {
-          required: true,
-          describe: 'path to the json file containing the operations'
-        });
+      return yargs;
     },
     function(argv) {
       var client = craftai({
@@ -118,11 +113,12 @@ yargs
         output: ['category'],
         time_quantum: 10 * 60
       };
+      console.log('Creating a new agent...');
       client.createAgent(MODEL)
         .then(function(agent) {
           console.log('Successfully create agent "' + agent.id + '" !');
           return new Promise(function(resolve, reject) {
-            fs.readFile(argv.operations, function(err, data) {
+            fs.readFile(argv.operations_file, function(err, data) {
               if (err) {
                 reject(err);
               }
@@ -140,12 +136,35 @@ yargs
             return client.addAgentContextOperations(agent.id, operations);
           })
           .then(function() {
-            console.log('Inspect the decision tree at https://beta.craft.ai/inspector?owner=' + process.env.CRAFT_OWNER + '&agent=' + agent.id + '&token=' + process.env.CRAFT_TOKEN);
+            console.log('Inspect the decision tree at ' + client.cfg.url + '/inspector?owner=' + client.cfg.owner + '&agent=' + agent.id + '&token=' + client.cfg.token);
           })
           .catch(function(err) {
             console.log(err);
             client.destroyAgent(agent.id);
-          })
+          });
+        })
+        .catch(function(err) {
+          console.log(err);
+        })
+    }
+  )
+  .command(
+    'destroy <agent_id>',
+    'Destroy a previously created agent (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)',
+    function(yargs) {
+      return yargs;
+    },
+    function(argv) {
+      var client = craftai({
+        owner: process.env.CRAFT_OWNER,
+        token: process.env.CRAFT_TOKEN
+      });
+      client.destroyAgent(argv.agent_id)
+        .then(function(agent) {
+          console.log('Successfully destroyed agent "' + agent.id + '" !');
+        })
+        .catch(function(err) {
+          console.log(err);
         });
     }
   )

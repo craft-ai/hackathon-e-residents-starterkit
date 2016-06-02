@@ -17,14 +17,18 @@ realized as a support for the Hackathon [Hack The Office](http://hacktheoffice.b
 ### Using ###
 
 ```console
-> node ./src/main.js --help       
+> node ./src/main.js --help
+
 Commands:
-  retrieve_data  Retrieve and format activity data from RescueTime
-                 (`RESCUETIME_API_KEY`, `GOOGLE_API_CLIENT_ID`,
-                 `GOOGLE_API_CLIENT_SECRET` & `GOOGLE_API_PROJECT_ID` env
-                 variables needed)
-  learn          Create an agent and provide it with the given operations
-                 (`CRAFT_OWNER` & `CRAFT_TOKEN` env variable needed)
+  retrieve_data            Retrieve and format activity data from RescueTime
+                           (`RESCUETIME_API_KEY`, `GOOGLE_API_CLIENT_ID`,
+                           `GOOGLE_API_CLIENT_SECRET` & `GOOGLE_API_PROJECT_ID`
+                           env variables needed)
+  learn <operations_file>  Create an agent and provide it with the given
+                           operations (`CRAFT_OWNER` & `CRAFT_TOKEN` env
+                           variable needed)
+  destroy <agent_id>       Destroy a previously created agent (`CRAFT_OWNER` &
+                           `CRAFT_TOKEN` env variable needed)
 
 Options:
   --help  Show help                                                    [boolean]
@@ -38,19 +42,27 @@ src/main.js retrieve_data
 Options:
   --help  Show help                                                    [boolean]
   --from  Date lower bound (expects "YYYY-MM-DD")                     [required]
-  --to    Date upper bound (expects "YYYY-MM-DD")        [default: "2016-05-21"]
+  --to    Date upper bound (expects "YYYY-MM-DD")        [default: "2016-06-02"]
+  --out   Output file
 ```
 
 ```console
 > node ./src/main.js learn --help
 
-src/main.js learn
+src/main.js learn <operations_file>
 
 Options:
-  --help        Show help                                              [boolean]
-  --operations  path to the json file containing the operations       [required]
+  --help  Show help                                                    [boolean]
 ```
 
+```console
+> node ./src/main.js destroy --help
+
+src/main.js destroy <agent_id>
+
+Options:
+  --help  Show help                                                    [boolean]
+```
 ### Resources ###
 
 - [craft ai documentation](https://beta.craft.ai)
