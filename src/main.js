@@ -42,9 +42,11 @@ yargs
           console.log('Generating the **craft ai** diff list...');
           var activities = activitiesAndEvents[0];
           var activitiesDiffList = utils.diffsFromActivities(activities);
+          console.log('- ' + activitiesDiffList.length + ' activity diffs generated');
 
           var events = activitiesAndEvents[1];
           var eventsDiffList = utils.diffsFromEvents(events);
+          console.log('- ' + eventsDiffList.length + ' event diffs generated');
 
           var diffList = utils.mergeDiffsLists([
             [
@@ -57,6 +59,7 @@ yargs
                 }
               }
             ], activitiesDiffList, eventsDiffList ]);
+          console.log('- ' + diffList.length + ' merged diffs generated');
 
           if (argv.out) {
             console.log('Saving **craft ai** diff list to "' + argv.out + '"...');
@@ -136,7 +139,10 @@ yargs
             return client.addAgentContextOperations(agent.id, operations);
           })
           .then(function() {
-            console.log('Inspect the decision tree at ' + client.cfg.url + '/inspector?owner=' + client.cfg.owner + '&agent=' + agent.id + '&token=' + client.cfg.token);
+            return client.getAgent(agent.id);
+          })
+          .then(function(retrievedAgent) {
+            console.log('Inspect the decision tree at ' + client.cfg.url + '/inspector?agent=' + agent.id + '&timestamp=' + retrievedAgent.lastTimestamp);
           })
           .catch(function(err) {
             console.log(err);
