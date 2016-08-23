@@ -3,7 +3,9 @@ import _ from 'lodash';
 import dotenv from 'dotenv';
 
 dotenv.load();
-let token = process.env.CRAFT_TOKEN;
+const token = process.env.CRAFT_TOKEN;
+const owner = process.env.CRAFT_OWNER;
+const url = process.env.CRAFT_URL;
 
 // craft ai functions
 
@@ -18,10 +20,7 @@ function craftRequest(r) {
     body: {}
   });
 
-  let url = 'https://beta.craft.ai/api';
-  let owner = 'laposte';
-
-  return fetch(url  + '/' + owner + '/' + r.path, {
+  return fetch(url  + '/api/' + owner + '/' + r.path, {
     method: r.method,
     headers:r.headers,
     body: r.body

@@ -117,7 +117,7 @@ program
           return loadLocations(options.input)
             .then(locations => {
               console.log(`Locations successfully loaded from '${options.input}'.`);
-              return uploadContextBatchFromLocations(agent, locations)
+              return uploadContextBatchFromLocations(agent, locations);
             })
             .then(() => {
               const fileName = `${parsedInputPath.dir}/${parsedInputPath.name}.json`;
@@ -130,7 +130,7 @@ program
                   resolve();
                 }
               }));
-            })
+            });
         }
       })
       .catch(err => console.log('Error while creating a new agent', err));

@@ -6,9 +6,13 @@ import urlencode from 'urlencode';
 const DATA_NOVA_URL = 'https://datanova.legroupe.laposte.fr/api/records/1.0/';
 const DATA_NOVA_API_KEY = process.env.DATANOVA_API_KEY;
 
+// Make sure the call to datanova (that uses a self-signed certificate) works
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
+
 function retrieveNearestPostOffice(datetime, lat, lng) {
   let geofilter = urlencode(lat + ',' + lng + ',1000');
-  return fetch(DATA_NOVA_URL + 'search?dataset=laposte_poincont&sort=-dist&geofilter.distance=' + geofilter + '&apikey=' + DATA_NOVA_API_KEY, {method: 'GET'})
+  const url = DATA_NOVA_URL + 'search/?dataset=laposte_poincont&sort=-dist&geofilter.distance=' + geofilter + '&apikey=' + DATA_NOVA_API_KEY;
+  return fetch(url)
     .then(response => {
       if (response.status >= 400) {
         return response.json()
@@ -29,6 +33,10 @@ function retrieveNearestPostOffice(datetime, lat, lng) {
           });
       }
     })
+    .catch(err => {
+      console.log(err);
+      return Promise.reject(err)
+    });
 };
 
 let nearestPostOfficeCache = {};
