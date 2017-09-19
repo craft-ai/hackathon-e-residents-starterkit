@@ -1,2 +1,2 @@
-python-dotenv==0.5.1
-craft-ai==1.2.1
+python-dotenv==0.7.1
+craft-ai==1.6.0
